@@ -2788,6 +2788,9 @@ https://worker-kasyah.buntai.workers.dev/0:/movie/Sequels/Koleksi%20P%20Ramlee/%
 
 #######################################################################Vivamax########################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8zYU8hlKR5111IToxXvv5575tZG.jpg" group-title="Vivamax",Kesong Puti (2026)
+https://hls.khflix.top/Kesong.Puti.2026/index.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5lVYe4aSimWdxJINKwq9s68TZ2G.jpg" group-title="Vivamax",Abot Langit (2026)
 https://hls.khflix.top/Abot%20Langit%202026/index.m3u8
 
