@@ -1266,7 +1266,7 @@ http://217.216.110.49:8000/booQ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5145/default_primary.mpd
 
-#EXTINF:-1 tvg-id="412.astro" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime.png",412 Astro FAM Time
+#EXTINF:-1 tvg-id="412.astro" group-title="Movies" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroFAMTime_2026.png",412 Astro FAM Time
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=07fa6a9f7fe7806bba9b0e97d0ac5b10:c336fd7c8bb18d17bf63c9e46032a8ed
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
