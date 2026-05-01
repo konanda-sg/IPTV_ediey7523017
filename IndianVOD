@@ -3,6 +3,11 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
+https://cloud.hownetwork.xyz/xxx/LVU7ISgcGGxwYUV6bmcTGgY0FhYaSk9we2gRdSISgc/40/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" group-title="▶ VOD BOLLYWOOD",Assi (2026)
 https://aw.larhu.website/hls/vxzxg2quqoqfycihmtn7zbngbxkofd6xzglhn7crqdgp7srr5zfcctsiql2a/index-v1-a1.m3u8
 
