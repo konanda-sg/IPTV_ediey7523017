@@ -3,12 +3,11 @@
 
 #####################################################################Astro VOD 2024#############################################################################
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_key=a5b607bdb3da585f0564f9ec6491d510:ea77dc9e6d06ca58d5e424794e6829f3
-#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOONW_IVP_LAND_448x252_7C0F9_2025710_133710.jpg" group-logo="https://assets-global.website-files.com/5eb0bc427545c1b0709b646c/60c02177ef603df89843f4ea_Box%20VOD.png",BeetleJuice (2024)
+#EXTINF:-1 tvg-id="NULL" group-title="Astro VOD" tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KOONW_IVP_LAND_448x252_7C0F9_2025710_133710.jpg",BeetleJuice (2024)
 http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/b48b9365-b71f-5e0c-93eb-1f2227e3f68a/default_dash.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -242,7 +241,7 @@ http://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/e3ea91fd-e
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZBP_IVP_LAND_672x378_2024828_213628.jpg" group-title="▶ VOD MOVIES 2024",The Monkey King 3 (2018)
+#EXTINF:-1 tvg-logo="https://vod-poster.astro.com.my/prod/IVP(STB_OTT_STV)_KMZBP_IVP_LAND_672x378_2024828_213628.jpg" group-title="Astro VOD",The Monkey King 3 (2018)
 #KODIPROP:inputstream.adaptive.license_key=e1d42f16a0c597df930d92476cac9c10:2cf973ed794e62a5633541c1671488ed
 https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/56c2aeb8-3f8d-52e7-b11a-cad31b40f111/default_dash.mpd
 
@@ -21263,4 +21262,3 @@ https://vod-dai-ott-ap.ssai.iris.synamedia.com/tenant/astroprd/vodejitp-asset-pl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
 #KODIPROP:inputstream.adaptive.license_key=7215b287a125688a7605e2db955c1b10:efe4e8bd48476cec2c503a1ca81dceb5
 https://vodejitp-asset-playback-b.astro.com.my/v5/default/dash-wv/vode/0620d298-6092-5964-bb4c-4d8cc57dbd9b/default_dash.mpd
-
