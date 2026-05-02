@@ -10,17 +10,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/okey_Trans.png" group-title="MYTV Mana-Mana",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Y426PJ6h/output-onlinepngtools.png" group-title="MYTV Mana-Mana",TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
-
 #EXTINF:-1 tvg-id="" group-title="MYTV Mana-Mana" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/RTMAsean.png",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
-
-#EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="Dewan Rakyat.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png ",Dewan Rakyat
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
-
-#EXTINF:-1 group-title="MYTV Mana-Mana" tvg-id="Dewan Negara.my" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png",Dewan Negara
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="MYTV Mana-Mana",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
@@ -45,12 +36,6 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6576795:378:CHANNEL:IMAGE:png&w=400" group-title="MYTV Mana-Mana",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png" group-title="MYTV Mana-Mana",Selangor TV
-https://dedm91s0p00ib.cloudfront.net/smil:selangor/chunklist_b3128000_slmsa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.theindonesiachannel.world/logotic.png" group-title="MYTV Mana-Mana",The Indonesia Channel
-https://692f685b5aa52.streamlock.net/tic/indonusa/chunklist_w308166095.m3u8
 
 
 #EXTINF:-1 tvg-id="DramaHebat" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/fbc3fcDramaHebat_v1.png",Drama Hebat
@@ -132,7 +117,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="Movies",Cinemax HD
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="warnertv" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movies",Warner TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Movies",Cinemaworld
+https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Movies",AXN
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movies",Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Movies",KIX
@@ -140,3 +131,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6522423:378:CHANNEL:IMAGE:png&w=400" group-title="Movies",Thrill
 https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/kplus.png" group-title="Movies",Kplus
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
