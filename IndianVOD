@@ -8,6 +8,15 @@
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
 https://cloud.hownetwork.xyz/xxx/LVU7ISgcGGxwYUV6bmcTGgY0FhYaSk9we2gRdSISgc/40/480.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="▶ VOD BOLLYWOOD",Dhurandhar The Revenge (2026)
+https://cloud.hownetwork.xyz/xxx/JhA8PCQXEykjI1o-JkYzNiUdZHx1S0FsFRQ1CA9vDgcnTCh2dhsTcg/41/480.m3u8?t=486ff9e620217d82daaa841f66ab9062
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="▶ VOD BOLLYWOOD",Dhurandhar (2025)
+https://amn.larhu.website/hls/vxzxg2fzqoqfycihmtlpzchbcih6ftm5oqhov6mnyvarxmd4bci5htrjwe5a/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/JhA8PCQXEykjI1p-cwJjdRU9CwoJJi8eJGBAf3cINzo/38/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" group-title="▶ VOD BOLLYWOOD",Assi (2026)
 https://amn.larhu.website/hls/vxzxg2quqoqfycihmtn7zbngbxkofd6xzglhn7crqdgp7srr5zfcctsiql2a/index-v1-a1.m3u8
 
@@ -62,9 +71,6 @@ https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Khilad
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uYhjsC9gCKhxiG2enkCJgdLOXjB.jpg" group-title="▶ VOD BOLLYWOOD",Karan Arjun (1995)
 https://amn.larhu.website/hls/vxzxhgitqoqfycihmtn7zuvdb2p4pic7ey6ulkuk2sywoviqkhoxm43qwspa/index-v1-a1.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD BOLLYWOOD",Milenge Milenge (2010)
-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gX8k6oKpIsWHpfWNz3Bu4wUuliA.jpg" group-title="▶ VOD BOLLYWOOD",Bloody Daddy (2023)
 https://amn.larhu.website/hls/vxzxhfdzqoqfycihmtm7zwxfdxuqha6oe6xsyyocmngboxmt7765rmlt232q/index-v1-a1.m3u8
@@ -171,10 +177,6 @@ https://amn.larhu.website/hls/vxzxhlf7qoqfycihmtk7zb7hjzmni5j7vfknjt4hs4e7ffodb6
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tNDMdkJQ8BJnV7Uavyft141xgWb.jpg" group-title="▶ VOD BOLLYWOOD",Tu Meri Main Tera Main Tera Tu Meri (2025)
 https://amn.larhu.website/hls/vxzxgb5wqoqfycihmtlpzxvacthvi3ut6jzsxnqkalwzhvfbmmqdslyqxueq/index-v1-a1.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg" group-title="▶ VOD BOLLYWOOD",Dhurandhar (2025)
-https://amn.larhu.website/hls/vxzxg2fzqoqfycihmtlpzchbcih6ftm5oqhov6mnyvarxmd4bci5htrjwe5a/index-v1-a1.m3u8
-https://cloud.hownetwork.xyz/xxx/JhA8PCQXEykjI1p-cwJjdRU9CwoJJi8eJGBAf3cINzo/38/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qusjoDePti9etsaq9DgyYSj2Sq8.jpg" group-title="▶ VOD BOLLYWOOD",Aap Jaisa Koi (2025)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Aap%20Jaisa%20Koi%202025-1-720.mp4
