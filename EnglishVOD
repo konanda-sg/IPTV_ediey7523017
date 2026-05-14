@@ -3,6 +3,15 @@
 
 ################################################▶ VOD ENGLISH##################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="▶ VOD ENGLISH",Beast (2026)
+https://amn.larhu.website/hls/vxzxgsjbqoqfycihmtopzrvub6vz3knrr4iagp4warsl6xamx2scyeszwi5a/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="▶ VOD ENGLISH",The Punisher: One Last Kill (2026)
+https://amn.larhu.website/hls/vxzxhtzcqoqfycihmtopzq5bcbm7knnbbl5loaitrxc5smp2yu55mf4pya6a/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="▶ VOD ENGLISH",Clika (2026)
+https://amn.larhu.website/hls/vxzxg3jdqoqfycihmtopza5ab6jg6lexjsw2wczhqd25pud75i6wfdjpyioq/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/IRQgJSRURXFwZ1obBnISFB0gFi8mH0QjdWRG/41/480.m3u8?t=c8962c12e870d93f2e2244b55b2d9ef6
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="▶ VOD ENGLISH",Mortal Kombat (2021)
 https://amn.larhu.website/hls/vxzxhdjdqoqfycihmtopzaxbdzbt7iem4nf7ku2e62nn3ig6pwtp6hvin63q/index-v1-a1.m3u8
@@ -30,12 +39,6 @@ https://amn.larhu.website/hls/vxzxgw3iqoqfycihmtmpzcnmjw7f3uljuhn4upm3ye2odxh5mp
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="▶ VOD ENGLISH",The Bluff (2026)
 https://amn.larhu.website/hls/vxzxges3qoqfycihmtl7zvxcibafyqvvo25amqgidi3ctv5m6n6zg64sw2ma/index-v1-a1.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82Vh8PSzWtBi0CLWrnJdRhGYxEr.jpg" group-title="▶ VOD ENGLISH",Clika (2026)
-https://cloud.hownetwork.xyz/xxx/IRQgJSRURXFwZ1obBnISFB0gFi8mH0QjdWRG/41/480.m3u8?t=c8962c12e870d93f2e2244b55b2d9ef6
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
