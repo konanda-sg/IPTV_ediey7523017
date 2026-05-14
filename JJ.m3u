@@ -484,6 +484,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 ###KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+#KODIPROP:inputstream.adaptive.license_key=31fe3d74e8cbc4ee0b071a64257068e38:77ece75d9526f5beac0ab6bf1ee3bd89
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV1&provider=mytech
 
 #EXTINF:-1 tvg-id="tv2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/907F5B90-0688-4EC2-ABEF-A69F7C842287/0-16x9.png?width=530" group-title="Unifi TV",TV2
@@ -492,6 +493,7 @@ https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV1&provider=mytech
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 12 Build/KTR982) AppleWebKit/537.36 (KHTML, like Gecko) like Chrome/39.6972359084 Safari/537.36
 ###KODIPROP:inputstream.adaptive.license_key=32b2e71761af4641900f87df03c48cb2:974839fd58393a4e16b07d7027b05868
+#KODIPROP:inputstream.adaptive.license_key=0749c883bbdb4d5a9483a65e719a13dc:24c0fce8e6c3bf6b43790b117e0e89e3
 https://sghost.mobileads.uno/uni5/uni5.mpd?id=TV2&provider=mytech
 
 #EXTINF:-1 tvg-id="tv3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/AED0C736-D2D2-4E97-B2F6-4FF4A0ACE765/0-16x9.png?width=530" group-title="Unifi TV",TV3
