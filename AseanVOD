@@ -3,6 +3,13 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/du6XOg3cd6SlRBQ1fxZDKpgavW0.jpg" group-title="▶ VOD ASEAN",Panor 2 (20206)
+https://amn.larhu.website/hls/vxzxh2zaqoqfycihmtopzx5db7vvoltwrop7hrzkwhwhkjltju67bp4yfh7q/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/o3tG02uudhv1YemqPUoC75q3lbr.jpg" group-title="▶ VOD ASEAN",Panor (2025)
+https://amn.larhu.website/hls/vxzxhxraqoqfycihmtopzanedxv5hwvhaxvefrkilbsbm2g5qwlhxzst5xqa/index-v1-a1.m3u8
+https://cloud.hownetwork.xyz/xxx/MhknITdURXFwZFo7JlIyNB0gFipySENxcGlP/33/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ul4dQcA68mtSx8J56N5gEcaCCtP.jpg" group-title="▶ VOD ASEAN",My Dearest Assassin (2026)
 https://amn.larhu.website/hls/vxzxhvjiqoqfycihmtn7za54apx3nvkse5atcyh67cbckj5yyaxx7zxlr2qq/index-v1-a1.m3u8
 
@@ -563,8 +570,6 @@ https://amn.larhu.website/hls/vxzxhxn3qoqfycihmtk7zxvoj6vgzd4vz7up3qeoo2yxfyxztn
 #EXTINF:-1 type="movie" tvg-logo="https://i.mydramalist.com/jQAkkb_4f.jpg" group-title="▶ VOD ASEAN",Blocking the Horse (2025)
 https://amn.larhu.website/hls/vxzxg5naqoqfycihmtk7zxnvad6akxytl2uys3hg6yplexlhi57scm3aqxla/index-v1-a1.m3u8
 
-
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lEVjtTbPIQkubu3XxebvAYv1Zwc.jpg" group-title="▶ VOD ASEAN",Worst Woman (2016)
@@ -903,11 +908,6 @@ https://cloud.hownetwork.xyz/xxx/IA1kKCAXEGw4OQIlbkk_NiVVe353TFoWBxMzABxoCW8gTy1
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGYzMDIzZTItNWViNy00NGJkLWE3ZjEtYzc3ZTUzNWYzMDYzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD ASEAN",Halabala (2025)
 https://cloud.hownetwork.xyz/xxx/KhklLycYGyBvY0d-dh0BHQA8BREdJk91cWJOeycD/34/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDZjYzQ4OTItYTk4Zi00NmU0LTg2ZDMtNzNhNTgzMzE5MmIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD ASEAN",Panor (2025)
-https://cloud.hownetwork.xyz/xxx/MhknITdURXFwZFo7JlIyNB0gFipySENxcGlP/33/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
