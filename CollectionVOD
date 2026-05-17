@@ -662,80 +662,127 @@ https://cloud.hownetwork.xyz/xxx/d7280cb1f45196ca1d13a2211ad9d440/3/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ldyfo0BKmz5rWtJJKCvwaNS4cJT.jpg" group-title="▶ Collection VOD",Superman (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zzSuperman%202025-1-720.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cB46TSg3kGjq2eVy5kVUhlpUa1H.jpg" group-title="▶ Collection VOD",Man of Steel (2013)
+https://47226.ohflix.workers.dev/0:/x11/Random1%20Movies%20Malay%20Sub/Man%20Of%20Steel%20(2013)720p%20Bluray%20Malay%20Hardsub.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg" group-title="▶ Collection VOD",Superman Returns (2006)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/superman/zSuperman%20Returns%202006-1-720.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5UsK3grJvtQrtzEgqNlDljJW96w.jpg" group-title="▶ Collection VOD",Batman v Superman: Dawn of Justice (2016)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/74/Batman%20v%20Superman%20Dawn%20of%20Justice%202016-1-720.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Batman (2022)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/74xTEgt7R36Fpooo50r9T25onhq.jpg" group-title="▶ Collection VOD", The Batman (2022)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru28/The%20Batman%202022-720p.mp4
 https://cloud.hownetwork.xyz/xxx/56dd576f9ebad03ae06ee4bba63a287b/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Dark Knight Rises (2012)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg" group-title="▶ Collection VOD", The Dark Knight Rises (2012)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/The.Dark.Knight.Rises.2012.IMAX.BluRay.720p.mkv
 https://cloud.hownetwork.xyz/xxx/f3d0defe9e7f4d2e5ae2cee71fa78d56/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Dark Knight (2008)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qJ2tW6WMUDux911r6m7haRef0WH.jpg" group-title="▶ Collection VOD", The Dark Knight (2008)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/The.Dark.Knight.2008.IMAX.BluRay.720p.mkv
 https://cloud.hownetwork.xyz/xxx/9893c3ee9be105db7357762df713cc52/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODIyMDdhNTgtNDlmOC00MjUxLWE2NDItODA5MTdkNzY3ZTdhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Batman Begins (2005)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sPX89Td70IDDjVr85jdSBb4rWGr.jpg" group-title="▶ Collection VOD", Batman Begins (2005)
+https://ucd236d51e23cb2b1b09b3d415bc.dl.dropboxusercontent.com/cd/0/inline/DAkbkSQba64PHM0qR8bjdhoy9eqDAkz_V0bOewAX0EC8PE2XPU3QOyn1AWXWszv4apOtrEbJm0uY6BqNMISLCYRJTyVOjBVrhuAfa_efeOfnuOdeN6LTSljkUmI1O41SHPyqxmILx5e-G_JRVokBSjW8/file
 https://cloud.hownetwork.xyz/xxx/bd28b37b5fa2a3d1a432f990e9db8d4e/31/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/i7hEUpDuMN2LOrCEifFyGSHZQSY.jpg" group-title="▶ Collection VOD",Batman & Robin (1997)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Batman.And.Robin.1997.720p.BRrip.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/i0fJS8M5UKoETjjJ0zwUiKaR8tr.jpg" group-title="▶ Collection VOD",Batman Forever (1995)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Batman.Forever.1995.720p.BRrip.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg" group-title="▶ Collection VOD",Batman Returns (1992)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Batman.Returns.1992.720p.BRrip.mp4
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg" group-title="▶ Collection VOD",Batman (1989)
+https://47227.ohflix.workers.dev/0:/x21/Random4%20Movies%20Malay%20Sub/Batman.1989.BluRay.720p.mkv
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMDMyNDIzYzMtZTMyMy00NjUyLWI3Y2MtYzYzOGE1NzQ1MTBiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Matrix Resurrections (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8c4a8kE7PizaGQQnditMmI1xbRp.jpg" group-title="▶ Collection VOD", The Matrix Resurrections (2021)
+https://uc081ca166e4b4c2cee2b2f675d0.dl.dropboxusercontent.com/cd/0/inline/DAkwbC7hCQmdN3uqKMFQxTsXLNCmzYBtRuTu0wZizumtKJF1vkPu6Mqvo7nGvNlwVbu0CjIt6iyLWJ35epC1kNwpK-xp-oP6UaaFsZFXJdLYWcI4Nx-FHioWzlsiBrm9wfjaGlxtH7hLvtMHhdcMq4GT/file
 https://cloud.hownetwork.xyz/xxx/f571435bc4cf7b8bd51e76a5bff35167/11/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZjU2Y2FmNjEtYTc5Ni00MmMyLTljOTktODdkNmQ0YTk1NjYwXkEyXkFqcGc@._V1_.jpg" group-title="▶ Collection VOD", The Matrix Revolutions (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bkkS61w94ZVMNVd8KEyyJl2tnY5.jpg" group-title="▶ Collection VOD", The Matrix Revolutions (2003)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/The%20Matrix%20Revolutions%202003.mp4
 https://cloud.hownetwork.xyz/xxx/4f04e39b184c8cf5fb4848c69cc96b57/23/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjAxYjkxNjktYTU0YS00NjFhLWIyMDEtMzEzMTJjMzRkMzQ1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Matrix Reloaded (2003)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aA5qHS0FbSXO8PxcxUIHbDrJyuh.jpg" group-title="▶ Collection VOD", The Matrix Reloaded (2003)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/The%20Matrix%20Reloaded%202003.mp4
 https://cloud.hownetwork.xyz/xxx/d0716bf9c93aa4788c60ee40745111b7/21/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", The Matrix (1999)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aOIuZAjPaRIE6CMzbazvcHuHXDc.jpg" group-title="▶ Collection VOD", The Matrix (1999)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/25/The%20Matrix%201999.mp4
 https://cloud.hownetwork.xyz/xxx/8307d890a41fdc5d8655609b50a6b74b/3/480.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVkZWY5MmItYjY3OS00OWY3LTg2NWEtOWE1NmQ4NGMwZGNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers Rise of the Beasts (2023)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gPbM0MK8CP8A174rmUwGsADNYKD.jpg" group-title="▶ Collection VOD", Transformers Rise of the Beasts (2023)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Transformers%20Rise%20of%20the%20Beasts%202023ok1-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/fb563ba73a808eaaee26ccd7defbdc17/25/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Bumblebee (2018)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="▶ Collection VOD", Bumblebee (2018)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/70/Bumblebee%20(2014)-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/db6538caaecc6989507f3f4f89a7a66f/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWNlNjU3ZTItYTY3Mi00YTU1LTk4NjQtYjQ3MjFiNjcyODliXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers The Last Knight (2017)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/s5HQf2Gb3lIO2cRcFwNL9sn1o1o.jpg" group-title="▶ Collection VOD", Transformers The Last Knight (2017)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/Transformers%205%20-%20Last%20Knight%202017-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/16ace8b95e04785f0be898a6e844658d/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers Age of Extinction (2014)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jyzrfx2WaeY60kYZpPYepSjGz4S.jpg" group-title="▶ Collection VOD", Transformers Age of Extinction (2014)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/Transformers%204%20-%20Age%20of%20Extinction%202014-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/8e519c8bd6f3748f636fa98c79257ff9/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers Dark of the Moon (2011)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/28YlCLrFhONteYSs9hKjD1Km0Cj.jpg" group-title="▶ Collection VOD", Transformers Dark of the Moon (2011)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/Transformers%203%20-%20Dark%20Of%20The%20Moon%20(2011)-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/b68a93ee9bf9170b1510092f4af5e23a/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers Revenge of the Fallen (2009)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pLBb0whOzVDtJvyD4DPeQyQNOqp.jpg" group-title="▶ Collection VOD", Transformers Revenge of the Fallen (2009)
+https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/Transformers%20Revenge%20Of%20The%20Fallen%202009-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/57a79baec3f052a6ad4befa3ad4ad888/31/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://cloud.hownetwork.xyz/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjYwZTRiNWUtNDc2My00MTRkLTlhMTQtYTc1NzUzNmYwMWU0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ Collection VOD", Transformers (2007)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1P7w3AImoEOWJX7nn3fdaKDfEQA.jpg" group-title="▶ Collection VOD", Transformers (2007)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/Transformers%201%20(2007)-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/00ba565e3e99a2746fce15b28d4f4d62/31/480.m3u8
 
 
