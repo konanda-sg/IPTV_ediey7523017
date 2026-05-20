@@ -90,13 +90,13 @@ https://cloud.hownetwork.xyz/xxx/LRYlN2geGCVvOhkjNEN7PTQdOzcxER4vJXxFfHEFew8HOg0
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fl9VBbIGHUoBY6Ixzt9lEGjhxzs.jpg" group-title="▶ VOD ASEAN",Take Point (2018)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/77/Take%20Point%202018-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo=https://image.tmdb.org/t/p/w1280/lsyou5v2diVLNWY2ldDxYkR6095.jpg"" group-title="▶ VOD ASEAN",Iris 2 (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lsyou5v2diVLNWY2ldDxYkR6095.jpg" group-title="▶ VOD ASEAN",Iris 2 (2013)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/77/IRIS%20New%20Generation%20The%20Movie%202013-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2nwL8sAFTJojRUPQox4KOoJAYUy.jpg" group-title="▶ VOD ASEAN",Time to Hunt (2020)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru51/Time%20To%20Hunt%202020-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo=https://image.tmdb.org/t/p/w1280/hngKHgBHRD5nbTx92zatBC6eMSP.jpg"" group-title="▶ VOD ASEAN",Deliver Us from Evil (2020)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hngKHgBHRD5nbTx92zatBC6eMSP.jpg" group-title="▶ VOD ASEAN",Deliver Us from Evil (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Deliver%20Us%20From%20Evil%202020-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/slRaAeEWbU8gM834X10qNhBhVIv.jpg" group-title="▶ VOD ASEAN",Hidden Face (2024)
@@ -165,7 +165,7 @@ https://amn.larhu.website/hls/vxzxhoq7qoqfycihmtnpzrnbabinqou3uvapg7cnpzp2mqsftq
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/q3ROA6OqVA9rWSsC2DzdkPQvxWW.jpg" group-title="▶ VOD ASEAN",The Red Line (2026)
 https://amn.larhu.website/hls/vxzxg7yoqoqfycihmtm7zcnbdo76vsyhq7yexreerp5v7gmy4irvtjemv5eq/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://poster.showcdnx.com/wp-content/uploads/2026/03/film-boss-2025-lk21.jpg.webp" group-title="▶ VOD ASEAN",Boss (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fqHIhkyf6Iu21WvIWAtWsoSgYJe.jpg" group-title="▶ VOD ASEAN",Boss (2025)
 https://amn.larhu.website/hls/vxzxh6jhqoqfycihmtn7zwxac355pawae3psgj3al75itobddtk7t7bcbega/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg" group-title="▶ VOD ASEAN",The Ugly (2025)
@@ -176,7 +176,6 @@ https://amn.larhu.website/hls/vxzxhficqoqfycihmtnpzqnvdo7ci6orxdsjratdiv5cgqylnx
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/82bX2GK4PhaJQtfkTnfmd2P7erG.jpg" group-title="▶ VOD ASEAN",Humint (2026)
 https://amn.larhu.website/hls/vxzxh5akqoqfycihmtnpzb5piclqvun6fnwdkdld3ekd7ck74qxkalcju7cq/index-v1-a1.m3u8
-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o0QqNbfO5YLcZs066RrRiph10zl.jpg" group-title="▶ VOD ASEAN",My Boo (2024)
 https://amn.larhu.website/hls/vxzxgrtkqoqfycihmtmpzvnvdswqlubnnzt3cwzanx3dsk3uf4bvnrsj7nma/index-v1-a1.m3u8
