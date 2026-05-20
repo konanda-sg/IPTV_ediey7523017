@@ -3,13 +3,16 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD ASEAN",
-
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5taKwKt266p22QqXPqftZwXAQ36.jpg" group-title="▶ VOD ASEAN",The Secret Scandal (2013)
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qsOgkQ41npgioxnSv0Li7rWtWg3.jpg" group-title="▶ VOD ASEAN",Dr. Wai in the Scripture with No Words (1996)
 
+
+#EXTVLCOPT:http-referrer=https://imaxstreams.com/embed/tgz6sphrxtks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cg679vCkXY9RH2iINLvdG68tzsQ.jpg" group-title="▶ VOD ASEAN",The World of Love (2025)
+https://imaxstreams.com/stream/VPz-97AUgwtLbs6eLPFGpg/hjkrhuihghfvu/1779326159/40887061/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-referrer=https://imaxstreams.com/embed/zr0qmsa61uni
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
