@@ -9,6 +9,25 @@
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg" group-title="▶ VOD ENGLISH",The Devil Wears Prada 2 (2026)
 https://cloud.hownetwork.xyz/xxx/Jh0_JylUACQjIwRhM0I3PCNVe2N3SUV3bwYyDgd8CQAdQHgsJkpEJ3Q/41/480.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" group-title="▶ VOD ENGLISH",Kraken (2026)
+https://cloud.hownetwork.xyz/xxx/KQooJSAXWnNyY0FhFHUUHA4nERFzQE54emZPewSAX/41/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg" group-title="▶ VOD ENGLISH",Blue Moon (2025)
+https://cloud.hownetwork.xyz/xxx/IBQ8K2gUGC4sfEV8cQV7Gi4NGy88Ji8eejMVLiFRNW8/39/480.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
+#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg" group-title="▶ VOD ENGLISH",Misdirection (2026)
+https://cloud.hownetwork.xyz/xxx/LxE6KiwLEiI2OBgibgJmanRVHgsHPTseGg5HLnQJYGxwHA/39/480.m3u8
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH",The Magic Faraway Tree (2026)
 https://amn.larhu.website/hls/vxzxhsjaqoqfycihmtopzwvddps7nrmsflq47dt2mpes3czvgyilv33heuwq/index-v1-a1.m3u8
 
@@ -26,6 +45,7 @@ https://amn.larhu.website/hls/vxzxg3jdqoqfycihmtopza5ab6jg6lexjsw2wczhqd25pud75i
 https://cloud.hownetwork.xyz/xxx/IRQgJSRURXFwZ1obBnISFB0gFi8mH0QjdWRG/41/480.m3u8?t=c8962c12e870d93f2e2244b55b2d9ef6
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ybrX94xQm8lXYpZAPRmwD9iIbWP.jpg" group-title="▶ VOD ENGLISH",Mortal Kombat (2021)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Mortal%20Kombat%202021-1-720.mp4
 https://amn.larhu.website/hls/vxzxhdjdqoqfycihmtopzaxbdzbt7iem4nf7ku2e62nn3ig6pwtp6hvin63q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg" group-title="▶ VOD ENGLISH",Mortal Kombat II (2026)
@@ -41,103 +61,104 @@ https://amn.larhu.website/hls/vxzxhybiqoqfycihmtn7zb7bjawhcgpcfzifizbvgndzomv6r2
 https://amn.larhu.website/hls/vxzxhzasqoqfycihmtn7zwvebbasjlp7ziuuzwtmtqrfnreox2atgybstdoa/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg" group-title="▶ VOD ENGLISH",Apex (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Apex%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxhfywqoqfycihmtn7zq7ebzci6cadro2o2e4padqjawu76a47oe77acza/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2aWGxo1E5polpBjPvtBRkWp7qaS.jpg" group-title="▶ VOD ENGLISH",Shooter (2007)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/69/Shooter%202007-1-720.mp4
 https://amn.larhu.website/hls/vxzxgeizqoqfycihmtnpzx7dd363r236xh3nsmfafj52t266w6feiuie7nia/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg" group-title="▶ VOD ENGLISH",War Machine (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/War%20Machine%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgw3iqoqfycihmtmpzcnmjw7f3uljuhn4upm3ye2odxh5mpvfgseybvdq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/sojEzvfxR2DBcDSJyAisX8TWjov.jpg" group-title="▶ VOD ENGLISH",The Bluff (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Bluff%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxges3qoqfycihmtl7zvxcibafyqvvo25amqgidi3ctv5m6n6zg64sw2ma/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/2HoR2x23bqKpopluoBD1FH3tBi7.jpg" group-title="▶ VOD ENGLISH",Crime 101 (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Crime%20101%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxhpikqoqfycihmtnpzwhgdovbisxqqgfbvwapbvsjf5bzhavyjolddnlq/index-v1-a1.m3u8
-https://cloud.hownetwork.xyz/xxx/IQogIyBURnFzfEV8cQZ7EAY7CAMaISh5ITNHfHoEZA/39/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xdZ8k5s8DTwWyPBMIcflrYLgcAK.jpg" group-title="▶ VOD ENGLISH",Kraken (2026)
-https://cloud.hownetwork.xyz/xxx/KQooJSAXWnNyY0FhFHUUHA4nERFzQE54emZPewSAX/41/480.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nij3i5ziQdqfiK29gb4rX1bkmVy.jpg" group-title="▶ VOD ENGLISH",Blue Moon (2025)
-https://cloud.hownetwork.xyz/xxx/IBQ8K2gUGC4sfEV8cQV7Gi4NGy88Ji8eejMVLiFRNW8/39/480.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/z4gVnxTaks3anTycwKjDmvQSuWt.jpg" group-title="▶ VOD ENGLISH",Regretting You (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Regretting%20You%202025-1-720.mp4
 https://cloud.hownetwork.xyz/xxx/MB0uPCANAygsNlo1LEV7anJKfGMSPDUFDg4vE3YJM2xxHXt_/37/480.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/hGH8Ji7pG2ytHxo7ABqHM3TpzFA.jpg" group-title="▶ VOD ENGLISH",The Dreadful (2026)
-https://cloud.hownetwork.xyz/xxx/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
 https://www.dropbox.com/scl/fi/b6g55ic7m1o4dehtlp84t/The-Dreadful-2026.mp4?rlkey=3cgs7gj4ziq2zm5v8g71g6lmq&st=puypv26w&dl=1
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg" group-title="▶ VOD ENGLISH",Misdirection (2026)
-https://cloud.hownetwork.xyz/xxx/LxE6KiwLEiI2OBgibgJmanRVHgsHPTseGg5HLnQJYGxwHA/39/480.m3u8
+https://cloud.hownetwork.xyz/xxx/JgosLyEfAi1vY0d-dR0BHQA8BREdJkYkdmZOe3EE/39/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/760SP4VsZagpyB9WLfeZykE3DFg.jpg" group-title="▶ VOD ENGLISH",Sleepwalker (2026)
 https://www.dropbox.com/scl/fi/icvs8hw92dyj467nv6xz3/Sleepwalker-2026.mp4?rlkey=ptf9a01w8m6j7fijmicrba71i&st=by5gt7mh&dl=1
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pWt1iRuhNpeVDNP2QiUT2C5OiBt.jpg" group-title="▶ VOD ENGLISH",Downton Abbey (2019)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton%20Abbey%202019.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/r5n4CLoIjUcnT3shWDi6MHdJ25a.jpg" group-title="▶ VOD ENGLISH",Downton Abbey: A New Era (2022)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Downton%20Abbey%20A%20New%20Era%202022.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/m1tLlMTCwc6oK6OjWTOI4b32wnA.jpg" group-title="▶ VOD ENGLISH",Downton Abbey: The Grand Finale (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Downton%20Abbey%20The%20Grand%20Finale%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxgbehqoqfycihmtj7zwnycvg7hrmrllw2k4p3cdw4rqdzvjjachcoeuqq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/knh3c8LzL9fMhjc5SZPAOotXyiy.jpg" group-title="▶ VOD ENGLISH",Firebreak (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Firebreak%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxg7kiqoqfycihmtlpzbncb2xgo5mq6ymmq22batzespgqlds3sgld3jwq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg" group-title="▶ VOD ENGLISH",Mercy (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Mercy%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxh5coqoqfycihmtlpzuffckkutrosij7cn6pv3gs5uglnncvoii7ggzza/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/n5FygjEppOvac6yEaowi26nTyw3.jpg" group-title="▶ VOD ENGLISH",28 Years Later (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/28%20Years%20Later%202025-1-720.mp4
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg" group-title="▶ VOD ENGLISH",28 Years Later: The Bone Temple (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/28%20Years%20Later%20The%20Bone%20Temple%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgnkoqoqfycihmtlpzuv2ahjhuxn7wpru2yezy4bmtjcumunnusmvu7zq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fGodXWqJkkkbSebPIlxLSygV8GY.jpg" group-title="▶ VOD ENGLISH",Playdate (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Playdate%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxhkvqqoqfycihmtlpzb7dj3ko5hsrxngvtr3jpgpkrq2kern5ybckcpqq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4GIqZUgPZ146BhibsPHMHef2nXX.jpg" group-title="▶ VOD ENGLISH",Eddington (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Eddington%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxho5qqoqfycihmtlpzrnhaep7aimdguoecd5bqtfqjb5fappgjwpczxyq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/iQCtK477yqp6xnHHrQG2P0lXoow.jpg" group-title="▶ VOD ENGLISH",Ella McCay (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Ella%20McCay%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxhcvqqoqfycihmtlpzxhoccagmas6l37vavibooqaewpwl77ew5lkr54q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/57cyAMc9c8iveudogTRuDOQjujn.jpg" group-title="▶ VOD ENGLISH",Primate (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Primate%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgonsqoqfycihmtlpzuvzac2cvetpcqhqtv6j4vyd3znsnnisubhvo3za/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9tAHcIb9hys2rO6eDcKatjVOLR8.jpg" group-title="▶ VOD ENGLISH",Sacramento (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Sacramento%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxgrfsqoqfycihmtlpzvxpby4jgbcilofdcs3ebo5cfwo7stutivpnrxaq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/cvda8s5J8YaHjTyEyXQpvD6f3iV.jpg" group-title="▶ VOD ENGLISH",Caught Stealing (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Caught%20Stealing%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxhovsqoqfycihmtlpzu5djovbqbqjkzofx3jkqq2hevxdwljpdyhjmaaa/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/xZqo0yPARmyF8TACVNyaOACkYWG.jpg" group-title="▶ VOD ENGLISH",We Bury the Dead (2024)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/We%20Bury%20The%20Dead%202024-1-720.mp4
 https://amn.larhu.website/hls/vxzxgpfsqoqfycihmtlpzbhhbzargyjsizbtsljh5eisjownwvhva7wi4azq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/A188B94iDLdB6499QBYbz74WgOF.jpg" group-title="▶ VOD ENGLISH",The Big Fake (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Big%20Fake%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxg4vzqoqfycihmtlpzqhgaa4xrrnjmxr7h7mykcridpyroonxkyx4j43q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/9vasnPh69RoUg9oUpzXoErMVDB7.jpg" group-title="▶ VOD ENGLISH",Cellar Door (2024)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Cellar%20Door%202024-1-720.mp4
 https://amn.larhu.website/hls/vxzxh65yqoqfycihmtlpzrnqdltueje2hmicu24k3c2xvdva2hx4xt57un5a/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7zfrvyfl4Wf4NvLMUoJvJEMcmhF.jpg" group-title="▶ VOD ENGLISH",The Woman in the Yard (2025)
+https://47244.ohflix.workers.dev/0:/x40/NewVersion5/baru47/The%20Woman%20in%20the%20Yard%202025-1-720.mp4
 https://www.dropbox.com/scl/fi/tghwn59wejn6hh91ara83/The-Woman-in-the-Yard-2025-720p-WEB-MalaySub.mp4?rlkey=qxh05cjufpnwk6s1z0r26bqgr&st=lmndsai3&dl=1
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg" group-title="▶ VOD ENGLISH",Marty Supreme (2025)
-https://cloud.hownetwork.xyz/xxx/Lxk7OjxUBDQyIxIhJh1kaHBNZBkAOzMNHQkoe3sINzp0Sis/39/480.m3u8
 https://www.dropbox.com/scl/fi/avepr6kr0yu4jl717l69b/Marty-Supreme-2025.mkv?rlkey=8a8qqr0h6pftcoff91isqqtr7&st=xp4zuy3v&dl=1
+https://cloud.hownetwork.xyz/xxx/Lxk7OjxUBDQyIxIhJh1kaHBNZBkAOzMNHQkoe3sINzp0Sis/39/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
@@ -164,8 +185,8 @@ https://cloud.hownetwork.xyz/xxx/IRA7JzYNDmxwYUV5bmcTGgY0FhYaG0V4J2FPfiU/37/480.
 https://cloud.hownetwork.xyz/xxx/MRAsIjEcBWxwYUV6bmcTGgY0FhYaQBZyJmNPKnQ/39/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg" group-title="▶ VOD ENGLISH",Return to Silent Hill (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Return%20to%20Silent%20Hill%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgicyqoqfycihmtl7zwvcbvvj36plptwx6bh7d5ok33r6ui2vg44ks3oa/index-v1-a1.m3u8
-https://cloud.hownetwork.xyz/xxx/MB09OzcXWjIrPRIiNx0-MS4UZHx1S0FsFRQ1CA9vDgdyS30ocBpGdA/39/480.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; UltraBox Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36 
@@ -180,28 +201,35 @@ https://cloud.hownetwork.xyz/xxx/MhQoKTAcWnNyY0JhFHUUHA4nERF8GEB1c2MTfQ/38/480.m
 https://cloud.hownetwork.xyz/xxx/Jg09LS0UFi9vY0d-dh0BHQA8BREdJkNwc2QRKCED/38/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg" group-title="▶ VOD ENGLISH",The Running Man (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/The%20Running%20Man%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxheeqqoqfycihmtkpzw5zcbsfjlco5c6i75u5ejqwb4gzn3gv6cbzfq2q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/ag5TZNcK3vHdCCpZIY8syjwzgfr.jpg" group-title="▶ VOD ENGLISH",Queen of Chess (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Queen%20Of%20Chess%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxg5vvqoqfycihmtlpzwnhduor2xt5c5rzcbjwpjojyr6c7je73gwb4aiq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qhNThwc72GqihJhXaP29Af5hJ2A.jpg" group-title="▶ VOD ENGLISH",The Investigation of Lucy Letby (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Investigation%20Of%20Lucy%20Letby%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxhfvwqoqfycihmtlpzu5ddq7a756ecjikjsuzkbu25hpxqbcpyqmiuiwq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/o7dVxvZIKnAB7k1eeeWp2k14Es7.jpg" group-title="▶ VOD ENGLISH",Relationship Goals (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Relationship%20Goals%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgbfwqoqfycihmtlpzanqd3mjwcnhkg6nxo4gt7rwwapwvhic7opqt3va/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wXDFtcnYtevleGzCmAD2ReQnJ4l.jpg" group-title="▶ VOD ENGLISH",Roofman (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Roofman%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxgqfsqoqfycihmtlpzv5gcp5wn2257u52zdmrbm5wjyf2k443qqikob2q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg" group-title="▶ VOD ENGLISH",Relay (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Relay%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxhpvsqoqfycihmtlpzwfajtvn7wy6cnwcy5joxgstg64j2sa7wdpxbrdq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qwc6wH49pDytMsYGtcaVM1haYIr.jpg" group-title="▶ VOD ENGLISH",The Housemaid (2025)
-https://amn.larhu.website/hls/vxzxgzfsqoqfycihmtlpzrnfbcvdyuieiyyo3krdcor6ges2uw623jq5kfvq/index-v1-a1.m3u8
 https://www.dropbox.com/scl/fi/xff1kjomodajvywygofu8/The-Housemaid-2025.mkv?rlkey=uqmj3prrya4g2r4xv4mhwr3je&st=ygtc9khl&dl=1
+https://amn.larhu.website/hls/vxzxgzfsqoqfycihmtlpzrnfbcvdyuieiyyo3krdcor6ges2uw623jq5kfvq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg" group-title="▶ VOD ENGLISH",Hamnet (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Hamnet%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxgrvqqoqfycihmtlpzrvgjj6sfbzbwblruyswmmspoczcmg6lvoz7hsnq/index-v1-a1.m3u8
 https://www.dropbox.com/scl/fi/xge1ar8z41kouauag9ja7/Hamnet-2025.mp4?rlkey=2da9kgcz33v2y6xkbjzijxawz&st=n1l2zxfe&dl=1
 
@@ -241,11 +269,11 @@ https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTIwNjlf?temp_key=N%
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/scFc8RD4sFxB2x0eIOaymphMnYh.jpg" group-title="▶ VOD ENGLISH",War (2007)
 https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/War%202007-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg" group-title="▶ VOD ENGLISH",The Meg (2018)
-https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/The%20Meg%20(2018).mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg" group-title="▶ VOD ENGLISH",A Working Man (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru48/A%20Working%20Man%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eyWICPcxOuTcDDDbTMOZawoOn8d.jpg" group-title="▶ VOD ENGLISH",The Meg (2018)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/baru33/The%20Meg%20(2018).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg" group-title="▶ VOD ENGLISH",Meg 2: The Trench (2023)
 https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyMDg1NDZf?temp_key=1%E86%D3m%B4N%17%B6%D1%3A%DE%9D%C8v%D3m6%DF%5E%F6%D2jx&inline=1
@@ -293,15 +321,17 @@ https://web.opendrive.com/api/v1/download/file.json/M18zMTgyNzU3MTZf?temp_key=N%
 https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDc1MTZf?temp_key=E%A8%A5%AE%86%9D%DBD%E2%81%EA%EC%DBM%B4%D7%A9%A9&inline=1
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/zsbolOkw8RhTU4DKOrpf4M7KCmi.jpg" group-title="▶ VOD ENGLISH",Hidden Strike (2023)
-###https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Hidden%20Strike%202023-1-720.mp4
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru38/Hidden%20Strike%202023-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/bfXjFTytfFTdo9WeO7lYqzkHG7g.jpg" group-title="▶ VOD ENGLISH",The Bank Job (2008)
-###https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/The%20Bank%20Job%202008-1-720.mp4
+https://47242.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/76/The%20Bank%20Job%202008-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/gbVwHl4YPSq6BcC92TQpe7qUTh6.jpg" group-title="▶ VOD ENGLISH",The Wrecking Crew (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/The%20Wrecking%20Crew%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxgnv3qoqfycihmtk7zufbaane2ckvmmcobwd4dzx6yivkr4xuloul4rga/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/uN7MUMaCXfa8DbMMp61A8iXEcEG.jpg" group-title="▶ VOD ENGLISH",The Spiderwick Chronicles (2008)
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/68/The%20Spiderwick%20Chronicles%20(2008)-1-720.mp4
 https://amn.larhu.website/hls/vxzxhnfyqoqfycihmtlpzw7dbm2j2tccozved56w63ogtz7pto2emud5t6yq/index-v1-a1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
