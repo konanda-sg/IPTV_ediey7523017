@@ -3,6 +3,15 @@
 
 #######################################################▶ VOD FILM SERIES###########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oWT70TvbsmQaqyphCZpsnQR7R32.jpg" group-title="▶ VOD FILM SERIES",Blade (1998)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Blade%20(1998)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yDHwo3eWcMiy5LnnEnlGV9iLu9k.jpg" group-title="▶ VOD FILM SERIES",Blade II (2002)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Blade%20II%20(2002)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6f7iXvPOnf83MaLB1JmPzUor1rr.jpg" group-title="▶ VOD FILM SERIES",Blade: Trinity (2004)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/73/Blade%20Trinity%20(2004)-1-720.mp4
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" group-title="▶ VOD FILM SERIES", Goosebumps 2: Haunted Halloween (2018)
@@ -138,6 +147,7 @@ https://cloud.hownetwork.xyz/xxx//fc4cecdfb10cfd1455f33ed3bf5c0d4e/5/480.m3u8
 
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lTQoEczVEnkuxHFEGgWYfJB98tL.jpg" group-title="▶ VOD FILM SERIES", Lee Cronin's The Mummy (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Lee%20Cronins%20The%20Mummy%202026-1-720.mp4
 https://amn.larhu.website/hls/vxzxhmr6qoqfycihmtopzbvqafd2f7t2iufi3g47mxmfay7lrpcmbcqfefiq/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx//Lh0sYyYLGC8rPwRhLkU7NTtVe353T1oJBhI2ARxoCWhyHXEtIUFA/40/480.m3u8
 
@@ -561,8 +571,8 @@ https://cloud.hownetwork.xyz/xxx//e2c1e1f3d19bb3d67746927d406883fe/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aabwWZWx6z1aYP4PX2ADvbDKktd.jpg" group-title="▶ VOD FILM SERIES", Avatar Fire and Ash (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Avatar%20Fire%20and%20Ash%202025-1-720.mp4
 https://amn.larhu.website/hls/vxzxgnisqoqfycihmtn7za5mcejkypmqyyi42srshocz2636ylwforhlpntq/index-v1-a1.m3u8
-https://cloud.hownetwork.xyz/xxx//Iw4oOiQLWicrIxJhIkM-dXBIe3toLjIDBh0oFBwEYj0hHH56dg/40/480.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
@@ -592,9 +602,9 @@ https://cloud.hownetwork.xyz/xxx//2e950c2ed320ba1017eb6dd92ae09934/1/480.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pHpq9yNUIo6aDoCXEBzjSolywgz.jpg" group-title="▶ VOD FILM SERIES", Predator Badlands (2025)
-https://amn.larhu.website/hls/vxzxghvcqoqfycihmtk7zv5hbrzowaqggduzasipeetjbxnk2mjhq4dvasba/index-v1-a1.m3u8
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/baru50/Predator%20Badlands%202025-1-720.mp4
-https://cloud.hownetwork.xyz/xxx//MgosKiQNGDNvMxYoL1E4PDFVe353TFoDLiQlLTpvDgcjTSgrJE4TIw/39/480.m3u8
+https://amn.larhu.website/hls/vxzxghvcqoqfycihmtk7zv5hbrzowaqggduzasipeetjbxnk2mjhq4dvasba/index-v1-a1.m3u8
+
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
