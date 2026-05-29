@@ -27,16 +27,11 @@ https://cloud.hownetwork.xyz/xxx/IBQ8K2gUGC4sfEV8cQV7Gi4NGy88Ji8eejMVLiFRNW8/39/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg" group-title="▶ VOD ENGLISH",Misdirection (2026)
 https://cloud.hownetwork.xyz/xxx/LxE6KiwLEiI2OBgibgJmanRVHgsHPTseGg5HLnQJYGxwHA/39/480.m3u8
 
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/udXvLxC5gAqN8SinemyFBEcHpTf.jpg" group-title="▶ VOD ENGLISH",The Magic Faraway Tree (2026)
 https://amn.larhu.website/hls/vxzxhsjaqoqfycihmtopzwvddps7nrmsflq47dt2mpes3czvgyilv33heuwq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9KCOv0hL37IN3tWG3j86eZg3xDH.jpg" group-title="▶ VOD ENGLISH",Eagle Eye (2008)
 https://amn.larhu.website/hls/vxzxgbrbqoqfycihmtopzrxhj3gjgfyj4amhvfxoeuhwjdlrhrzfr6dkgpuq/index-v1-a1.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="▶ VOD ENGLISH",Beast (2026)
-https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Beast%202026-1-720.mp4
-https://amn.larhu.website/hls/vxzxgsjbqoqfycihmtopzrvub6vz3knrr4iagp4warsl6xamx2scyeszwi5a/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qQclTgLMDvGBuUBFGHRipxkEwWR.jpg" group-title="▶ VOD ENGLISH",The Punisher: One Last Kill (2026)
 https://amn.larhu.website/hls/vxzxhtzcqoqfycihmtopzq5bcbm7knnbbl5loaitrxc5smp2yu55mf4pya6a/index-v1-a1.m3u8
@@ -55,11 +50,28 @@ https://amn.larhu.website/hls/vxzxhxb3qoqfycihmtopzafsbkhnnrfjmuu5az26m6emfe4snu
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3YBce6dTh1D5oCMITXk2S5QhPt.jpg" group-title="▶ VOD ENGLISH",Wuthering Heights (2026)
 https://amn.larhu.website/hls/vxzxh4joqoqfycihmtn7zxfcj7fltu4jt5eohta25gtrqs3aovhjqqtw4uma/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="▶ VOD ENGLISH",Send Help (2026)
-https://amn.larhu.website/hls/vxzxhybiqoqfycihmtn7zb7bjawhcgpcfzifizbvgndzomv6r2pzvjj2lnpa/index-v1-a1.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg" group-title="▶ VOD ENGLISH",They Will Kill You (2026)
 https://amn.larhu.website/hls/vxzxhzasqoqfycihmtn7zwvebbasjlp7ziuuzwtmtqrfnreox2atgybstdoa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mjkS2iAgWj3ik1DTjvI15nHZ7yl.jpg" group-title="▶ VOD ENGLISH",Send Help (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Send%20Help%202026-1-720.mp4
+https://amn.larhu.website/hls/vxzxhybiqoqfycihmtn7zb7bjawhcgpcfzifizbvgndzomv6r2pzvjj2lnpa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/7NrvUI3vnW8H3rD7ExKcTL7KRcQ.jpg" group-title="▶ VOD ENGLISH",Beast (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Beast%202026-1-720.mp4
+https://amn.larhu.website/hls/vxzxgsjbqoqfycihmtopzrvub6vz3knrr4iagp4warsl6xamx2scyeszwi5a/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4vWqIdoBavo1htxmxlScDniOS9C.jpg" group-title="▶ VOD ENGLISH",In the Blink of an Eye (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/In%20the%20Blink%20of%20an%20Eye%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/6PFJrMvoQwBxQITLYHj09VeJ37q.jpg" group-title="▶ VOD ENGLISH",Free Guy (2021)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Free%20Guy%202021-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vPVY3S57lEooBLJCg6KGdMHkUxm.jpg" group-title="▶ VOD ENGLISH",Faces of Death (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Faces%20of%20Death%202026-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg" group-title="▶ VOD ENGLISH",Normal (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Normal%202025-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gdYIJDXFKeTDNeYQ4Z2B8whCq5P.jpg" group-title="▶ VOD ENGLISH",6 Underground (2019)
 https://47227.ohflix.workers.dev/0:/x21/NewVersion/8/6%20Underground%20(2019).mp4
@@ -72,6 +84,12 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/22/Stardust.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cj4TkqZt0yhPPekSU14yC2ZE7pm.jpg" group-title="▶ VOD ENGLISH",Immortals (2011)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/71/xImmortals%202011-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg" group-title="▶ VOD ENGLISH",Ready or Not (2019)
+https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Ready%20or%20Not%20(2019)-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jRf89HVEtBZiSnOXXWDhZOfuTwW.jpg" group-title="▶ VOD ENGLISH",Ready or Not: Here I Come (2026)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru53/Ready%20or%20Not%202%20Here%20I%20Come%202026-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/riYInlsq2kf1AWoGm80JQW5dLKp.jpg" group-title="▶ VOD ENGLISH",Enola Holmes (2020)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/Enola%20Holmes%201%202020-1-720.mp4
