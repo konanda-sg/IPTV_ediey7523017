@@ -96,41 +96,44 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/playlist/amg00810-hncfast-hncswedenhd-astrosookasingapore/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/RockAction.png" group-title="Movies",ROCK Action
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/67ad5259c6e804a40b4bb0ed_logo_act_web.webp" group-title="Movies",ROCK Action
+https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/ROCK_ACTION-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae5b/67ad5259c6e804a40b4baf29_ENT_LOGO_GOLD_NoShadow.webp" group-title="Movies" ,ROCK Entertainment
-https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.prod.website-files.com/67ad5259c6e804a40b4bae92/689ab4d12af2554b2b422dfb_logo_ent_red_web.webp" group-title="Movies" ,ROCK Entertainment
+https://cdnbal1.indihometv.com/atm/DASH/rock_entertainment/rock_entertainment-avc1_2500000=7-3277707030000000.mp
 
 #EXTINF:-1 tvg-id="Hg" tvg-logo="https://poster.starhubgo.com/Linear_channels2/603_1920x1080_HTV.png?w=272" group-title="Movies",HBO Signature
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/hbosignature-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/601_1920x1080_HTV.png?w=272" group-title="Movies",HBO HD
-https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/hbo-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/604_1920x1080_HTV.png?w=272" group-title="Movies",HBO Family HD
-https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/605_1920x1080_HTV.png?w=272" group-title="Movies",HBO Hits HD
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/hbohits-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://poster.starhubgo.com/Linear_channels2/611_1920x1080_HTV.png?w=272" group-title="Movies",Cinemax HD
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y4q1ttt/cinemaworld-2-1.png" group-title="Movies",Cinemaworld
-https://cdn10jtedge.indihometv.com/atm/DASH/cinemaworld/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="Movies",HITS Movies
+https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/179_144.png" group-title="Movies",HITS
+https://cdnbal1.indihometv.com/atm/DASH/hits/hits-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://logo.m3uassets.com/axn.png" group-title="Movies",AXN
-https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Warner-TV_v1.png" group-title="Movies",Warner TV
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/warner-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Hf88xf0N/KIX-logo-svg.png" group-title="Movies",KIX
-https://cdn10jtedge.indihometv.com/atm/DASH/kix/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6522423:378:CHANNEL:IMAGE:png&w=400" group-title="Movies",Thrill
-https://cdn10jtedge.indihometv.com/atm/DASH/thrill/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://images.seeklogo.com/logo-png/62/2/thrill-logo-png_seeklogo-627328.png" group-title="Movies",Thrill
+https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/refs/heads/main/kplus.png" group-title="Movies",Kplus
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png" group-title="Movies",Kplus
+https://cdnbal1.indihometv.com/atm/DASH/kplus/kplus-avc1_2500000=7-3277707030000000.mpd
