@@ -17,8 +17,11 @@ https://amoo.larhu.website/hls/vxzxgkrbqoqfycihmtopzbphbig6m5brvxapvqpkg5nyr3cnd
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/8qrddM5BRcTuqjc9crJY6e3gyE6.jpg" group-title="▶ VOD BOLLYWOOD",System (2026)
 https://amoo.larhu.website/hls/vxzxhtzyqoqfycihmtopzxv7jm2k6bjtmgyrjomvwmlf3jx74ar6tytfaiaa/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg" group-title="▶ VOD BOLLYWOOD",Dacoit (2026)
-https://amoo.larhu.website/hls/vxzxh4jeqoqfycihmtopzxphaejwmjnwj3pakk2dejl4iwzeqvamuanu7ptq/index-v1-a1.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dNJrK1uvoBPoYEVTAqI8ZSyrpdI.jpg" group-title="▶ VOD BOLLYWOOD",Aseq (2024)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Aseq%20(2023).mp4
+
+EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3mKTRcvzXUizGlTlvlb2ryXuc2Y.jpg" group-title="▶ VOD BOLLYWOOD",120 Bahadur (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/120%20Bahadur%20(2025).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg" group-title="▶ VOD BOLLYWOOD",Dhurandhar The Revenge (2026)
 https://amoo.larhu.website/hls/vxzxgiz7qoqfycihmtopzuxack6optxt4ytmady7dwhzxu3zf6vucnojg4yq/index-v1-a1.m3u8
@@ -32,8 +35,9 @@ https://amoo.larhu.website/hls/vxzxgkrbqoqfycihmtopzbphbig6m5brvxapvqpkg5nyrepjk
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cKuFTk3qqrASg2nopJwDdeAroeF.jpg" group-title="▶ VOD BOLLYWOOD",Biker (2026)
 https://amoo.larhu.website/hls/vxzxgcjbqoqfycihmtopzxhpc7o5zrolv2sznjusgqmrrz43a75mfm2knjpq/index-v1-a1.m3u8
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wBs2SZKKaYZJDmq01maIjdZwUT0.jpg" group-title="▶ VOD BOLLYWOOD",Assi (2026)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mSLtAAHdnqQisw9JbeWKVJDHhTs.jpg" group-title="▶ VOD BOLLYWOOD",Assi (2026)
 https://amoo.larhu.website/hls/vxzxg2quqoqfycihmtn7zbngbxkofd6xzglhn7crqdgp7srr5zfcctsiql2a/index-v1-a1.m3u8
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Assi%20(2026).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/nUPnA0I1MTaZRVCsUQc5DS5JA8W.jpg" group-title="▶ VOD BOLLYWOOD",Tu Yaa Main (2026)
 https://amoo.larhu.website/hls/vxzxhkyzqoqfycihmtnpzu5hdxwgjcdvmr7fcoxzm4pv3buupndtgeo6hb4a/index-v1-a1.m3u8
@@ -1987,6 +1991,10 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 ######################################################################▶ VOD INDIA#########################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/530ELGtiZKTUpyxEvP2ufzz8bJB.jpg" group-title="▶ VOD INDIA",Dacoit (2026)
+https://amoo.larhu.website/hls/vxzxh4jeqoqfycihmtopzxphaejwmjnwj3pakk2dejl4iwzeqvamuanu7ptq/index-v1-a1.m3u8
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Dacoit%20A%20Love%20Story%20(2026).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lCqVTbzjThEhbx7eYrBOIG5qsy6.jpg" group-title="▶ VOD INDIA",Leader (2026)
 https://amoo.larhu.website/hls/vxzxgvruqoqfycihmtopzbn6ias3eb7ulkenufxbpbbmuiojeggx57sty3aa/index-v1-a1.m3u8
