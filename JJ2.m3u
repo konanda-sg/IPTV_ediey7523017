@@ -1016,8 +1016,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein3)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=d561ff976397473e9b456b44cdffcdd2:2b6cff42f7fae7e8bc32f3d5c62dc3c2
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd
 
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 1
+#EXTINF:-1 tvg-id="fifa1" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1025,7 +1024,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(Bein4)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa1)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 2
+#EXTINF:-1 tvg-id="fifa2" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1033,7 +1032,7 @@ https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa1)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 https://ngtv-live-cbj.akamaized.net/Content/DASH/Live/channel(fifa2)/master.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
+#EXTINF:-1 tvg-id="fifa3" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
