@@ -1644,11 +1644,17 @@ https://d13snj70thqlha.cloudfront.net/48c0b3a4-4fc7-42d3-90ac-7b0636472378/Train
 #EXTINF:-1 type="movie" tvg-logo="https://rtm-images.glueapi.io/320x426/movie/intruderposter.jpg" group-title="▶ VOD ASEAN",The Intruder
 https://d13snj70thqlha.cloudfront.net/30672b01-103e-4178-9180-da7cfc2b22d7/TheIntruderRTMKLIK20251103.m3u8?id=30001
 
+#EXTINF:-1 type="movie" tvg-logo="https://khflix.com/wp-content/uploads/2026/06/q7CzzcTuYNQHQgoubf1FjPVo7id.jpg" group-title="▶ VOD ASEAN",Siren (2004)
+https://hls.khflix.top/Siren%20(2004)/index.m3u8
+
 
 ####################################################################▶ VOD INDONESIA###################################################################
 
-#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDONESIA",
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gut2EAv6h868bpAeqVyOSD8B4Qi.jpg" group-title="▶ VOD INDONESIA",Sebelum Dijemput Nenek (2026)
+https://hls.khflix.top/Sebelum%20Dijemput%20Nenek%20(2026)/index.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/84Az3SHKRJDg971KQ0j9nZWYTcf.jpg" group-title="▶ VOD INDONESIA",Alas Roban (2026)
+https://hls.khflix.top/Alas%20Roban%20(2026)/index.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eD2pLCLMvbw06ITaHipGAYU0MiI.jpg" group-title="▶ VOD INDONESIA",Timur (2025)
 https://amoo.larhu.website/hls/vxzxgircqoqfycihmtopzspcdmn3ezpzefga4hsthozbm5tdeythkrmqz2ca/index-v1-a1.m3u8
