@@ -1647,6 +1647,9 @@ https://d13snj70thqlha.cloudfront.net/30672b01-103e-4178-9180-da7cfc2b22d7/TheIn
 
 ####################################################################▶ VOD INDONESIA###################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="" group-title="▶ VOD INDONESIA",
+
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/eD2pLCLMvbw06ITaHipGAYU0MiI.jpg" group-title="▶ VOD INDONESIA",Timur (2025)
 https://amoo.larhu.website/hls/vxzxgircqoqfycihmtopzspcdmn3ezpzefga4hsthozbm5tdeythkrmqz2ca/index-v1-a1.m3u8
 
@@ -1798,12 +1801,6 @@ https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Iblis%20(20
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/23271.jpg" group-title="▶ VOD INDONESIA",Gasing Tengkorak
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/75/Gasing%20Tengkorak%20(2018)-1-720.mp4
 
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22964.jpg" group-title="▶ VOD INDONESIA",Qodrat 2
-https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Qodrat%202%202025-1-720.mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/14815.jpg" group-title="▶ VOD INDONESIA",Qodrat
-https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Qodrat%202022ok-1-720.mp4
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/37nSfEMphDI4kdAv5lhH8AUsdGv.jpg" group-title="▶ VOD INDONESIA",Para Betina Pengikut Iblis Part 2 (2024)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru45/Para%20Betina%20Pengikut%20Iblis%20Part%202%202024-1-720.mp4
 
@@ -1850,13 +1847,19 @@ https://amoo.larhu.website/hls/vxzxhrjvqoqfycihmtopzwhhdnzfb7p4ktpeozeszccdrxmge
 https://amoo.larhu.website/hls/vxzxhurvqoqfycihmtopzxpccopd264aevcal2uvrla7r6mqn3xuf4pk7zia/index-v1-a1.m3u8
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Qorin.mp4
 
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22964.jpg" group-title="▶ VOD INDONESIA",Qodrat 2
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/baru49/Qodrat%202%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/14815.jpg" group-title="▶ VOD INDONESIA",Qodrat
+https://47236.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/baru36/Qodrat%202022ok-1-720.mp4
+
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rf1jxWlDeFgM8hfQCYTFXj0ZXWi.jpg", Ketika Cinta Bertasbih 2 (2009)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Ketika%20Cinta%20Bertasbih%202.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cz03mFe9MCFxbZTMjqmnt0QqpBf.jpg", Ketika Cinta Bertasbih (2009)
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/Asean/Ketika%20Cinta%20Bertasbih%201.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Si_buta_lawan_jaka_sembung_poster.jpg", Si Buta Lawan Jaka Sembung (1983)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Si_Buta_Lawan_Jaka_Sembung_1983_INDONESIAN_1080p_WEB_DL_MalaySub.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDY2OTllNjItOWUzZi00YzE3LWFkNTctYmE5ZmVmYzc3OGEyXkEyXkFqcGdeQXVyMTc3MjY3NTY@._V1_FMjpg_UX1000_.jpg", Jaka Sembung (1981)
+#EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://image.tmdb.org/t/p/w1280/jBtQMSlHq5SCwtGcSfwVBA2xwLr.jpg", Jaka Sembung (1981)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Jaka%20Sembung%20(1981)%20INDONESIAN%201080p%20WEB-DL%20MalaySub.mp4
 #EXTINF:-1 type="movie" group-title="▶ VOD INDONESIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dKEOoh66hKXPUirgL5FGmAIpxiY.jpg", Air Mata di Ujung Sajadah (2023)
 https://worker-kasyah.buntai.workers.dev/0:/movie/Asean/Air.Mata.Di.Ujung.Sajadah.2023.1080p.WEB-DL.mp4
@@ -1907,6 +1910,9 @@ https://hello-world-yellow-lake-ae51.buntai.workers.dev/0:/movie/Asean/Ketika.Be
 
 ##############################################################▶ VOD MALAY##########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/77dQfPgZA0FDRU7SnLjwTNenf9c.jpg" group-title="▶ VOD MALAY",Mikael: Pemburu Dua Alam (2026)
+https://amoo.larhu.website/hls/vxzxhhonqkqfycihmto7zafcda2tgzsmoktojhnbalbvviedahxwpnbkm5kq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/daTkRaoH91H6ZX8KZgM2SqpXPjK.jpg" group-title="▶ VOD MALAY",Pemuja (2026)
 https://amoo.larhu.website/hls/vxzxhpruqoqfycihmtopzx7ccherhuawrp7wqkdd2wmoxhrm7xowsn6efi3a/index-v1-a1.m3u8
 
@@ -1941,7 +1947,6 @@ https://get.perfecttv.net/okayru.mpd?id=11100009204431
 https://get.perfecttv.net/okayru.mpd?id=11094934751951
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/26MSPlnkYMMYOlacyXWOnMrwxYf.jpg" group-title="▶ VOD MALAY",Emp4t (2025)
-https://uc6d10e877c1fc80f7ec44cf1699.dl.dropboxusercontent.com/cd/0/inline/DApC-0LunBDb2xVEI3e9m7nQgwybZ2Y6CHDYZMzIO5nswUJMaLqeadFIY3TNQryP2Eo-bAfwFdhScSbj9lxXvfMoURAxxH1hkYOz8onEF4XRa7BOZvu9y3nyztUF6ABSp4Mq3u8szejP3tiD-YxH0QNs/file
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qlqv0hLOL9uC5yrhwDggA0e6hN1.jpg" group-title="▶ VOD MALAY",Penanggal Mak Kiah (2023)
 https://47236.ohflix.workers.dev/0:/a67t55yflix/three/KoleksiMalay/46/Penanggal%20Mak%20Kiah%20(2023).mp4
@@ -2045,7 +2050,7 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2738.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2739.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyuq6ClXoTyeNnjRKO5iI6v4SM.jpg" group-title="▶ VOD MALAY",Conquer: Lahad Datu (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2740.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLPAE_P_IVP_PORT_390x585_83CBB_2025324_93810.jpg" group-title="▶ VOD MALAY",Kembar Sado (2024)
+#EXTINF:-1 type="movie" tvg-logo="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/IVPVodImages/IVP(STB_OTT_STV)_KLPAE_IVP_LAND_917x516_83CBB_2025324_9388.jpg" group-title="▶ VOD MALAY",Kembar Sado (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2742.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k3hmkxg4NC2ru1xLhPcI0e4doGa.jpg" group-title="▶ VOD MALAY",Zim Zim Ala Kazim (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2743.mp4
@@ -2130,6 +2135,9 @@ https://amoo.larhu.website/hls/vxzxhtbvqoqfycihmtopzrf6cfmbvaqeoriqlszakt2ed3jjv
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zoKAggBy8xUEFEHfAXTBvMlLeKy.jpg" group-title="▶ VOD MALAY",Agak Laen (2024)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2115.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/2741.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/fPJ9OjLgAQoLZrPeL6ZfQwNkfPK.jpg" group-title="▶ VOD MALAY",Agak Laen: Menyala Pantiku! (2025)
+https://amoo.larhu.website/hls/vxzxhtbvqoqfycihmtopzrf6cfmbvaqeoriqlszakt2eclqopxrnfmk4gbwq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEJuc55kaaWjj3tABr6i78kM1Oz.jpg" group-title="▶ VOD MALAY",Telaga Suriram (2025)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/4640.mp4
