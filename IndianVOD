@@ -618,7 +618,6 @@ https://cloud.hownetwork.xyz/xxx/f7132ca10cce25963e642be603a2a0b5/5/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bn2sQizEJ0qsntJRvjULsd5vk44.jpg" group-title="▶ VOD BOLLYWOOD",Forensic (2022)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Forensic%20(2022)-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/185b36393eb8776a8d7d1a64eddb2713/4/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/iZHd6JS8dxsEo4DN4DnIKTHQp4h.jpg" group-title="▶ VOD BOLLYWOOD",Yuvvraaj (2008)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Yuvvraaj%20(2008)-1-720.mp4
@@ -2087,11 +2086,6 @@ https://amoo.larhu.website/hls/vxzxhanyqoqfycihmtlpzufbby3jgnvzroeeqy4cbz35hrw7i
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/nvK6gYa4diCnQkDVN42uoYXPrdT.jpg" group-title="▶ VOD INDIA",The Rajasaab (2026)
 https://amoo.larhu.website/hls/vxzxgr5sqoqfycihmtlpzwndjloed332hyyzqhi72q7cmlinsnq5yi2n4sxa/index-v1-a1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/jFBu7tS0mlEZwYTkjJcKH48bV4m.jpg" group-title="▶ VOD INDIA",Nari Nari Naduma Murari (2026) 
-https://cloud.hownetwork.xyz/xxx/LBk7J2gXFjMrfBktJ0U7OW8VPDwkCx5scGFFem5nExoGNBYWGktPcCEyEX16/39/480.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6DoLxt1LLXcBuNeByHsSGLiAB0L.jpg" group-title="▶ VOD INDIA",Dude (2025)
 https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Dude%202025-1-720.mp4
 https://www.dropbox.com/scl/fi/bfgb0ipjlam4ikst2h8um/Dude-2025.mp4?rlkey=m04hlc12ieig61jrnprp5r7ip&st=3m15nxge&dl=1
@@ -2115,21 +2109,9 @@ https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Solo%20(2017).mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg" group-title="▶ VOD INDIA",Aruvam (2019)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil7/Aruvam%20(2019)%20HDRip.mkv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qY4Xwbq0NnwErp2sPZOaQwpSGMv.jpg" group-title="▶ VOD INDIA",Darling (2024)
-https://cloud.hownetwork.xyz/xxx/Jhk7IiwXEGxwYUV4bmcTGgY0FhYaSEB3e2FEeSI/29/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/wvHzhN4dSZC9gw66w09GTaf0egx.jpg" group-title="▶ VOD INDIA",Not All Movies Are the Same: Dual (2025)
-https://cloud.hownetwork.xyz/xxx/LBc9YyQVG2wvPgElJkN7KyMVLGMhDBYtb2NHfnYdAR0APAURHSZBcndkFnQnUw/38/480.m3u8
-
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8cYve5muYPeWKvSEfFdkmWDyyDa.jpg" group-title="▶ VOD INDIA",The Girlfriend
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Girlfriend%20(2025).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/pO86EjZb7QyGYk5RW4Xm4UWe5Uv.jpg" group-title="▶ VOD INDIA",Cheekatilo (2026)
 https://amoo.larhu.website/hls/vxzxhrf4qoqfycihmtk7zanhbospnmreu2xpz6lbs2tturouotkbknx4gcia/index-v1-a1.m3u8
 https://cloud.hownetwork.xyz/xxx/IRAsKy4YAyhvPRhhcQBkbm8vDAwBNSgZHWVOLicINDt3/38/480.m3u8
@@ -2144,235 +2126,160 @@ https://47228.ohflix.workers.dev/0:/x32/NewVersion/12/Devi%20(2016)-indon.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/532.jpg" group-title="▶ VOD INDIA",Petromax
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Petromax%20(2019)%20HDRip.mkv
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BODBlYWM0ZmUtN2FjZi00ZDFkLTgwMDgtYmM2OTEyMTNlZTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Thandakaaranyam (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/enkPbejfPmM8o2bgbhnLSX4fCAV.jpg" group-title="▶ VOD INDIA",Thandakaaranyam (2025)
 https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Thandakaaranyam%20(2025).mp4
-https://web.opendrive.com/api/v1/download/file.json/NDZfOTAwMjM0MzJf?temp_key=N%16%A7u%A9%1Aj%B6%A7%C9%A9%B6%D3o6%D3nv%F6jx&inline=1
 
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFmOTExMjMtNTY1NS00Y2Q2LWIwMmQtZGMwNzNlYjVmOGM3XkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Netrikann (2021)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ptBc2wSha97kvWIDxi0zZX91Zir.jpg" group-title="▶ VOD INDIA",Netrikann (2021)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Netrikann%20(2021)LT.mp4
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMjU1MDZf?temp_key=5%EBk%8AF%A7%9Fm6%F3m6%D7oKNjx&inline=1
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yMHEfLu8EggS3BwbxyPI2tu0utE.jpg" group-title="▶ VOD INDIA",The Pet Detective (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/The%20Pet%20Detective%20(2025).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9BAjt8nSSms62uOVYn1t3C3dVto.jpg" group-title="▶ VOD INDIA",Baahubali 1: The Beginning (2015)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Bahubali%20-%20The%20Beginning%20Web-DL%20(2015).mkv
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ-iJ_06BoFPpfqpTMCdyL4BxKR9xdtw9QDF9ozJ-BBjNg
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/21sC2assImQIYCEDA84Qh9d1RsK.jpg" group-title="▶ VOD INDIA",Baahubali 2: The Conclusion (2017)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Baahubali%202%20-%20The%20Conclusion%20Web-DL%20(2017).mkv
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXNwmYZSRX5IoxR4I0reKgEBCfjKrgwBFP2xQUN4bkE09A
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg" group-title="▶ VOD INDIA",Baahubali 3: The Epic Part 1 (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Baahubali%20The%20Epic%202025%20Part%201.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/z9YIo2qscyaXYgRqIdRJtND3bw8.jpg" group-title="▶ VOD INDIA",Baahubali 3: The Epic Part 2 (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Baahubali%20The%20Epic%202025%20Part%202.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/5nnOFdY23oTr1f8NjsebvREjJdf.jpg" group-title="▶ VOD INDIA",Forensic (2020)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/14/Forensic%20(2020)%20Malayalam.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/a6A0CvOMUUbQNfgkRSPqf5JMpsU.jpg" group-title="▶ VOD INDIA",Kaantha (2025)
+https://47246.ohflix.workers.dev/0:/x40/NewVersion5/tamil42/Kaantha%20(2025).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rRjh3zumdW89fNMe4tdjmALB1xG.jpg" group-title="▶ VOD INDIA",Aaryan (2025)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Aaryan%20(Tamil)%202025-1-720.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHQAy0hHANT8BIRrLAQCfmLwIN4.jpg" group-title="▶ VOD BOLLYWOOD",Naa Peru Surya - Naa Illu India (2018)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil3/Naa%20Peru%20Surya%20Na%20Illu%20India%20AVC%20HD%20(2018).mkv
+http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2366.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5FjbUg5Ei9I1q48ENbo6XoFFZy.jpg" group-title="▶ VOD BOLLYWOOD",The Greatest of All Time (2024)
+https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/GOAT.%20The%20Greatest%20of%20All%20Time%20(202).mp4
+http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2370.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzSBCrS7ZSkB8quje1Na31gRze.jpg", Leo (2023)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil32/Leo%202023-1-720.mp4
+https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW2ExTC60EtOpSX4W-a7U1wB7E6Wfw7UN4H0ArlyVwSMjQ
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMUIsV6u0pPqfv1j8tGxbJw40sw.jpg" group-title="▶ VOD INDIA",Varisu (2023)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil28/Varisu%202023LT.mp4
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4528.mp4
+
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wjbOlovDadOdPKkSAMohLCjbIsc.jpg" group-title="▶ VOD INDIA",Master (2021)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yE8bsjy9hvuSY5JdtFlJGXyaTeH.jpg" group-title="▶ VOD INDIA",Beast (2022)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/Izeu2M0T0EMqtJWziKraltXvAU.jpg" group-title="▶ VOD INDIA",Vettaikaaran (2009)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/n0bz0nX3GqPKfoXY8kH8QFTyWCs.jpg" group-title="▶ VOD INDIA",Kushi (2000)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2DLhmWDkJiAMKS2VDtjNVrYXm2F.jpg" group-title="▶ VOD INDIA",Thirupaachi (2005)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xJVRc4xBZ87TPxJCcAYkIKWLPLS.jpg" group-title="▶ VOD INDIA",Sura (2010)
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/ckQo3IFpZ8dglr7HfQJC2YEqBmK.jpg" group-title="▶ VOD INDIA",Thirumalai (2003)
+
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/s4Yi1RbMyyN3hH2hElwvluP2rOG.jpg" group-title="▶ VOD INDIA",Bigil (2019)
 https://amoo.larhu.website/hls/vxzxhinaqoqfycihmtk7zbphbyikflze7x7oiwvthbagaakkez5gug52s36a/index-v1-a1.m3u8
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil6/Bigil%20(2019)%20HDRip.mkv
 https://dtacmuar-my.sharepoint.com/personal/mixflix_dtac_edu_my/_layouts/15/download.aspx?share=ES3QoGUq7vRCmnoPFfs-GBQBAHYAxfoqVBAh33YEHl7d2w
 
 #EXTINF:-1 type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sTNlPGZZyIAQeRVrtYYnBG5agxs.jpg" group-title="▶ VOD INDIA",Thuppakki (2012)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/1/THUPPAKKI%20(2012).MALAY%20HARDSUB.mp4
 https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuppakki.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BY2E1N2EzYjEtZjFmNC00ZmU0LWIyNzQtMGMyYTlmNWVmNzMxXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",The Pet Detective (2025)
-https://cloud.hownetwork.xyz/xxx/Mh09YyEcAyQhJR46Jh1kaHBNZBkAOzMNHQkoe3ZWNW57TSw/37/480.m3u8
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/oCykBqQkGwFK90SldyT6ILdwLXN.jpg" group-title="▶ VOD INDIA",Madurey (2004)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Madurey%20(2004).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2YxZThhZmEtYzM0Yi00OWYxLWI4NGYtM2Y2ZDNmOGE0ZWQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Baahubali 1: The Beginning (2015)
-https://cloud.hownetwork.xyz/xxx/d39656f3a9c42f75f5ff7e8757eb926e/2/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRhYTlhZTgtYmMyYy00NWI4LTk4MzItOWM2YjBmYTg2OTI2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Baahubali 2: The Conclusion (2017)
-https://cloud.hownetwork.xyz/xxx/68ce2db2b4526aa9cb25fb6b7d302aeb/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmIwYTI3ODItMzRkOS00MzlhLWI4NzQtNDFmOGJhZGJhM2VkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Baahubali 3: The Epic (2025)
-https://cloud.hownetwork.xyz/xxx/IBkoJjAbFi0rfBI8KlN7anJKfGMSPDUFDg4vE3FWYGt3TXB4/38/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWM1NDA5YzAtZWJjMC00ZjE3LWIyNjEtYjhlZTdjZGRhZTI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Forensic (2020)
-https://cloud.hownetwork.xyz/xxx/f0551c3b09c6740c954be9e942d41179/25/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjFjNDU4NjctMTUyOS00N2VlLTgwODctODlhZmQwMWUxMmUzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Kaantha (2025)
-https://cloud.hownetwork.xyz/xxx/KRkoIDERFmxwYUV5bmcTGgY0FhYaTRJ0d2NGfHA/37/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMWYyZDNlMTctMDkxOS00YjhhLWE1MWUtZDBkNmZkZmRjNzYzXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Aaryan (2025)
-https://cloud.hownetwork.xyz/xxx/Ixk7NyQXWnNyY0JhFHUUHA4nERF0S0Vxc2RFfQ/37/480.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5FjbUg5Ei9I1q48ENbo6XoFFZy.jpg" group-title="▶ VOD BOLLYWOOD",The Greatest of All Time (2024)
-http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2370.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fHQAy0hHANT8BIRrLAQCfmLwIN4.jpg" group-title="▶ VOD BOLLYWOOD",Surya The Soldier- Naa Illu India (2018)
-http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2366.mp4
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg5OGRhNmItODNiMi00MTZhLWFjYmUtYWNiM2RiNjIwMzZkXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Leo (2023)
-https://cloud.hownetwork.xyz/xxx/429f0bf3cc04d34ded479613f7e4c1a4/22/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDdmNzk4NWUtOTc3Zi00ZWE3LWJhOTYtZDI4N2Y2YzIzNjVmXkEyXkFqcGc@._V1_.jpg" group-title="▶ VOD INDIA",Master (2021)
-https://cloud.hownetwork.xyz/xxx/ff2164ddcfd2119f11a0f9d76045e17b/2/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk2NGQwNmYtMDViZS00NjE5LWI4MzMtZWJjZmIwNmI5ODk2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Mersal (2017)
-https://cloud.hownetwork.xyz/xxx/5ea9f02acb931387235aee15586adc9d/5/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDBlNGEyZDAtZjFhYS00YWU2LWFkYzEtNTlmYTIxZjJhNzI3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Theri (2016)
-https://cloud.hownetwork.xyz/xxx/8f0af1b3160aa925116666ab274b2df7/2/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTkyMmFjYmQtODIwYS00MGZiLWI2MDItZDNhNjZmYjUwZjMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="▶ VOD INDIA",Puli (2015)
-https://cloud.hownetwork.xyz/xxx/f10e91b17b2cbbf379fa52fb4382a3da/8/480.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/20795.jpg" group-title="▶ VOD INDIA",Villu
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rya0ivrIeTy6EzgJpoFrbNxyZam.jpg" group-title="▶ VOD INDIA",Villu (2009)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil37/Villu%20(2009)-1-720.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/18349.jpg" group-title="▶ VOD INDIA",Azhagiya Tamil Magan
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mft5HEwgoUz9Ve393y0ruXlV6Pc.jpg" group-title="▶ VOD INDIA",Azhagiya Tamil Magan (2007)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil34/Azhagiya%20Tamil%20Magan%20(2007).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/16395.jpg" group-title="▶ VOD INDIA",Badri
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vywiSMBCsnXyWTwSD5KcYKkviYM.jpg" group-title="▶ VOD INDIA",Badri (2001)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil31/Badri%20(2001).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/16384.jpg" group-title="▶ VOD INDIA",Aathi
-https://web.opendrive.com/api/v1/download/file.json/NzJfNDcyMDQwMzFf?temp_key=%01%ABa%8Bm6%F3m4%E3of%A7&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/h0tDFt9uqFLG4YQ8wfjH6OtGovv.jpg" group-title="▶ VOD INDIA",Aathi (2006)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil31/Aathi%20(2004).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/15757.jpg" group-title="▶ VOD INDIA",Nanban
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE1MTdf?temp_key=5%A9%DBj%7D%B4%DB%CD%B4%D7m%BD%9A%9E&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/tn9TQ0ZffxuGfuZZV1OfCJhVdQs.jpg" group-title="▶ VOD INDIA",Nanban (2012)
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Nanban%20(2012)-1-720.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/15200.jpg" group-title="▶ VOD INDIA",Sachein
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTY0NDdf?temp_key=I%A7%21%89%E9%F6%D3o6%D3Nv%F6jx&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/xB99XQYvGDlHTANr2OgDbptaEj2.jpg" group-title="▶ VOD INDIA",Sachein (2005)
+https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil29/Sachien%20(2005).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/14488.jpg" group-title="▶ VOD INDIA",Varisu
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTM5MDJf?temp_key=U%AA%E2%B2%ED%B4%DBM%B7-9%A9&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/mwXyBxPH6e7GgDdNicmalX1V9GI.jpg" group-title="▶ VOD INDIA",Ghilli (2004)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil19/Ghilli%20(2004).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/11133.jpg" group-title="▶ VOD INDIA",Beast
-https://web.opendrive.com/api/v1/download/file.json/NzJfNDcxOTgxNDZf?temp_key=%04%40%12Om6%F3m6%DBoKNjx&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pTGY5TybnAODNBPcx3yDYR2cRD8.jpg" group-title="▶ VOD INDIA",Bairavaa (2017)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Bairavaa%20HDRip%20(2017).mkv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/9719.jpg" group-title="▶ VOD INDIA",Ghilli
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMTY0NTFf?temp_key=%1A%18%A5%96-%B4%DB%CD%B4%D3%8D%BD%9A%9E&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kUBsvLoyzgxTqTvuiE0PmJHpsRU.jpg" group-title="▶ VOD INDIA",Jilla (2014)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil2/Jilla%20HDRip%20(2014).mkv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8508.jpg" group-title="▶ VOD INDIA",Vettaikaaran
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDIxNzRf?temp_key=U%EBmj%29%1Aj%B6%A7%DBM%B4%D3%DA%24%9A%9E&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/65Q1wpRPZ5E3UVUv2V5JBbJQCcj.jpg" group-title="▶ VOD INDIA",Mersal (2017)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil3/Mersal%20HD%20AVC%20(2017).mkv
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8426.jpg" group-title="▶ VOD INDIA",Kushi
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE5Mzhf?temp_key=%29D%87%23m6%F3m4%D3oh%92jx&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6BhexotEqO3GejXa3FopBNGL6M.jpg" group-title="▶ VOD INDIA",Theri (2016)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Theri%20Web-DL%20(2016).mkv
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4533.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/8493.jpg" group-title="▶ VOD INDIA",Thirupaachi
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDIzNTRf?temp_key=N%18%AB%BA%9AZr%18%B6%D3m4%E6%89%26%A7&inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/7527.jpg" group-title="▶ VOD INDIA",Sura
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDI5NzFf?temp_key=J%EA%DA%DBM%B4%D7J%24%9A%9E&inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/6340.jpg" group-title="▶ VOD INDIA",Thirumalai
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMjc2NTVf?temp_key=N%18%AB%BAf%A5j-%B4%DB%CD%B4%D3%7D%BD%9A%9E&inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/55.jpg" group-title="▶ VOD INDIA",Bairavaa
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDUwNzRf?temp_key=%05%A8%ABj%F6%9A%DBA%C3F%2Av%D3o6%D3%5E%F6%F6i%2F&inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/172.jpg" group-title="▶ VOD INDIA",Jilla
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDg0NzNf?temp_key=%26%29ekm%07%18%A9%DBM%BC%DBMx%DB%D9%A4&inline=1
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/185.jpg" group-title="▶ VOD INDIA",Kaavalan
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/9LmnnPxfkVZC3b2J0rrOTsessjG.jpg" group-title="▶ VOD INDIA",Kaavalan (2011)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil2/Kaavalan%20(2011)%20HDRip.mkv
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDg3MTRf?temp_key=%29%A6%AFjV%A7%DBM%BC%DBMu%DB%DD%B4%1C4b%A6i%2F&inline=1
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/205.jpg" group-title="▶ VOD INDIA",Kaththi
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/y8hvai0Y96Fz1yqyvtAG0hnATuZ.jpg" group-title="▶ VOD INDIA",Kaththi (2014)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/TamilsBolly/Kaththi%20(2014)%20LT.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/plaMZ1r11u7D9JTd4vkmhQJlYfa.jpg" group-title="▶ VOD INDIA",Sarkar (2018)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Sarkar%20HDRip%20(2018).mkv
 https://amoo.larhu.website/hls/vxzxgmjjqoqfycihmtn7zx53d3xi7qd7xgl5gqmtiest6hky5e252de7zxla/index-v1-a1.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/408.jpg" group-title="▶ VOD INDIA",Velayudham
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDg0MzRf?temp_key=U%E9Z%CA%E7ajm%B4%1C4b%A7m6%F3m5%D7of%A7&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3AMmKdLbeGr8KxbsOwERzRM3xdy.jpg" group-title="▶ VOD INDIA",Velayudham (2011)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Velayudham%20HDRip%20(2011).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/3883.jpg" group-title="▶ VOD INDIA",Vaseegara
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMjUxNzNf?temp_key=U%AB%1Ez%06%ABkm6%F3m4%DFof%A7&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qNwJ8ZMvse6YMVYFtYd1GT411cL.jpg" group-title="▶ VOD INDIA",Vaseegara (2003)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Vaseegara%20(2003).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/428.jpg" group-title="▶ VOD INDIA",Puli
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/jOaQRIwweY6pkqp7TEZpklNqrvd.jpg" group-title="▶ VOD INDIA",Puli (2015)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil5/Puli%20(2015)%20HDRip.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/431.jpg" group-title="▶ VOD INDIA",Thalaivaa
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wNpPaERSOy5NMI81GlfXIlgpDsh.jpg" group-title="▶ VOD INDIA",Thalaivaa (2013)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil5/Thalaivaa.2013.Malaysub.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/611.jpg" group-title="▶ VOD INDIA",Pokkiri
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/uuLSscvrnDcxE9e0peMGRHbY2IW.jpg" group-title="▶ VOD INDIA",Pokkiri (2007)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/TamilsBolly/Pokkiri%20(2007)%20HD.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/3898.jpg" group-title="▶ VOD INDIA",Sivakasi
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMjU4OTJf?temp_key=%02Yv%D1%28%AFjF%AC%8Bm6%D3Nf%A7&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cdyiZ7y9WBUwpGBk3B4cQmfgyAp.jpg" group-title="▶ VOD INDIA",Sivakasi (2005)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/All%20Sivakasi%202005.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/4433.jpg" group-title="▶ VOD INDIA",Kuruvi aka Dopidi
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDE3OTZf?temp_key=%0E%8Abv-%B4M%E9n%82%E9%A9&inline=1
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lR0BpNEuT2IRjCRrcGCRjiV9uQo.jpg" group-title="▶ VOD INDIA",Kuruvi (2008)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Kuruvi%20(2008).mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
-#EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/22550.jpg" group-title="▶ VOD INDIA",Dragon (2025)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vKNJPuejtE6Xrp6RK6LKsQcbL8L.jpg" group-title="▶ VOD INDIA",Dragon (2025)
 https://47244.ohflix.workers.dev/0:/x40/NewVersion5/tamil38/Dragon%20(2025)-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/4970c65316b2278669ba77f39eabe3f6/31/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/a47JQFl9L7VDa79tEvnTOJe0rPa.jpg" group-title="▶ VOD INDIA",Lucky Baskhar (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil36/Lucky%20Baskhar%202024-Telugu.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2331.mp4
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/7055.jpg" group-title="▶ VOD INDIA",Sulthan (2021)
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDMwOThf?temp_key=J%E9m%85%A9%F6%D3o6%D3mv%F6%89%26%A7&inline=1
-https://cloud.hownetwork.xyz/xxx/9f42c52d74cca4dfb6593f3f1dec7a9c/2/480.m3u8
+https://47247.ohflix.workers.dev/0:/x40/NewVersion5/tamil41/Sulthan%20(2021)-1-720.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/h6Pd89ngvl9quPVsx3KoJlQsvk9.jpg" group-title="▶ VOD INDIA",Pushpa: The Rise Part 1 (2021)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Pushpa%20The%20Rise%20-%20Part%201%20(2021).mp4
-https://cloud.hownetwork.xyz/xxx/551ce855a80fab96f5bcc55ec09156ef/26/480.m3u8
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Pushpa-%20The%20Rise%20-%20Part%201.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/759mIIerY4Njb8uPoj7AIXGSNh3.jpg" group-title="▶ VOD INDIA",Pushpa: The Rule Part 2 (2024)
 https://47241.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/tamil37/Pushpa%202%20The%20Rule%20(2024)ok.mp4
@@ -2380,7 +2287,6 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/2372.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/eSSNPcF2FQ0JUQ1OQ8xwibZgNqE.jpg" group-title="▶ VOD INDIA",Singam 3 (2017)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Singam%203%20HDRip%20(2017).mkv
-https://cloud.hownetwork.xyz/xxx/dd5798c783dfeb5f75b1ccf25462629f/11/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/6ENAxfZz4IY2NPu89R1SGObjiWF.jpg" group-title="▶ VOD INDIA",Singam 2 (2013)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil7/Singam%202%20(2013)%20sub.mkv
@@ -2392,8 +2298,27 @@ https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Singam%20(2010).mp4
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Drishyam%20(2013).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RJBCUGE27LX06tAES4jTELN0KA.jpg" group-title="▶ VOD INDIA",Drishyam 2 (2021)
-https://web.opendrive.com/api/v1/download/file.json/M18zMTgzMDU1MTJf?temp_key=%0E%B8%AC%87%26%A6%DBM%B6%D3o6%D3mv%F6%896%9A%9E&inline=1
 https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Drishyam%202.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://image.tmdb.org/t/p/w1280/uwGChfkDcxljj4pgb53A7JonOqU.jpg",Raatchasi (2019)
+https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Raatchasi%20(2019).mp4
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
+
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://image.tmdb.org/t/p/w1280/mruUFlrVKiL994y3vvQBT8R2Vnf.jpg",Ratsasan (2018)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Ratsasan%20HDRip%20(2018).mkv
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
+
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IYD22njFAvEPesAC6IGoblix01.jpg",Raid (2023)
+https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil32/Raid%20(2023)ok.mp4
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/%5BHHH%5DRaid%20(2023)%20@FIUBS%20Tamil%20SubMelayu.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ZvmTzIJ0tTzgLG8sDOfg9roLF.jpg" group-title="▶ VOD INDIA",K.G.F Chapter 1 (2018)
+https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil2/K.G.F%20Chapter%201%20HD%20AVC%20(2018).mkv
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4540.mp4
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/K.G.F-%20Chapter%201.mkv
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="▶ VOD INDIA",K.G.F Chapter 2 (2022)
+http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4541.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Sx9vGOozrntDzlZnePoHitJakZ.jpg" group-title="▶ VOD INDIA",Bagheera (2024)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4190.mp4
@@ -2423,22 +2348,14 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4525.mp4
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4526.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg" group-title="▶ VOD INDIA",Pathaan (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4527.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iMUIsV6u0pPqfv1j8tGxbJw40sw.jpg" group-title="▶ VOD INDIA",Varisu (2023)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4528.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avhTPLXG3Gedvu5nc7nFt2eXTNy.jpg" group-title="▶ VOD INDIA",Thandatti (2023)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4529.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGyHwFAgCGNTqz2VpSlcx6Uyf82.jpg" group-title="▶ VOD INDIA",Satellite Shankar (2019)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4532.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6BhexotEqO3GejXa3FopBNGL6M.jpg" group-title="▶ VOD INDIA",Theri (2016)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4533.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/774UV1aCURb4s4JfEFg3IEMu5Zj.jpg" group-title="▶ VOD INDIA",Vikram (2022)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4538.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0XUBNQWlOvrh0Gd97ARGpIkL0.jpg" group-title="▶ VOD INDIA",RRR (2022)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4539.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43ZvmTzIJ0tTzgLG8sDOfg9roLF.jpg" group-title="▶ VOD INDIA",K.G.F Chapter 1 (2018)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4540.mp4
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/khNVygolU0TxLIDWff5tQlAhZ23.jpg" group-title="▶ VOD INDIA",K.G.F Chapter 2 (2022)
-http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4541.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/onGdT8sYi89drvSJyEJnft97rOq.jpg" group-title="▶ VOD INDIA",Looop Lapeta (2022)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4542.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EGaC5OlAyIDxD22Eb3ovBKb8Oh.jpg" group-title="▶ VOD INDIA",The Priest (2021)
@@ -2452,52 +2369,6 @@ http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4549.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lWAXEN7fh5iaU69nBiQU2HXt7bb.jpg" group-title="▶ VOD INDIA",Vittalwadi (2021)
 http://216.132.70.171:8080/movie/vip_3klp0es8/wg3piwEs/4550.mp4
 
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg", Aruvam (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Aruvam.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/jFHbrNh6LMnKKSz7nlflFyrwK5T.jpg", Pushpa The Rise Part 1 (2021)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Pushpa-%20The%20Rise%20-%20Part%201.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/original/7iLUbpIBWCcQeagdgx3fC9uCoz5.jpg", Kaappaan (2019)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Kaappaan.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yF08k0Hm0sH0bpOZYJWAmbjqDgi.jpg", Thudikkum Karangal (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thudikkum%20Karangal.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQ2lPXyAwm0c5Sre9xyvnTPEt0Z.jpg", Thuramukham (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuramukham.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg", Dhruva (2016)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dhruva.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/oz1BLUe7bC6GWQpAa1aneMQFacI.jpg", Rachcha (2012)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Racha%202012.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg", Yevadu
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Yevadu.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ: Duvvada Jagannadham (2017)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/DJ-%20Duvvada%20Jagannadham.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg", Bruce Lee The Fighter (2015)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bruce%20Lee%20-%20The%20Fighter.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/a0hFV8G0ofyPgPEjVcYrueuxFex.jpg", Bharat Ane Nenu (2018)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bharat%20Ane%20Nenu%20(2018)%20malay%20sub.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg", Nenokkadine
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/1-%20Nenokkadine%20Malay.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/4pAnEs9FUCP3ul0KN1pLYP9FSBa.jpg", Aagadu
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Aagadu%20Malay.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/sWxWTWCdMfjL8CmoVdQWttifBSd.jpg", Sarileru Neekevvaru (2020)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Sarileru%20Neekevvaru.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/9r4LCgznHZWg2vdxbZRqnlFpKIC.jpg", Sarrainodu
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Sarrainodu.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg", Race Gurram (2014)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Race%20Gurram.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/589.jpg", Ratsasan
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Ratsasan.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x7c6RQCWmrl92rPg3JhzzalF4SQ.jpg", Saindhav (2024)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Saindhav%20(2024).mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gq5OlT5ImxsNpkirpgf4rYngd3M.jpg", Captain Miller (2024)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Captain_Miller_2024_Tamil_720p_WEB_DL_Sub_Melayu_@ceritasarikatamelayu.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/176.jpg", K.G.F Chapter 1
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/K.G.F-%20Chapter%201.mkv
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2IYD22njFAvEPesAC6IGoblix01.jpg", Raid (2023)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/%5BHHH%5DRaid%20(2023)%20@FIUBS%20Tamil%20SubMelayu.mp4
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/10106.jpg",Raatchasi (2019)
-https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Raatchasi.mp4
-https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Raatchasi%20(2019).mp4
-
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s2tP3R39ZWo8CN90GuBTMvmXiBW.jpg", The Warriorr (2022)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EeZpYFWOIDJIgX9iptX_7xwBuK0_acpvUP6vK98DcViwBQ
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/18J8x7VcEJjfjfinAYbNLUsMzML.jpg", Double Engine (2024)
@@ -2508,9 +2379,37 @@ https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layo
 https://dtacmuar-my.sharepoint.com/personal/mubi1_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EVjfNY6bN3RHtPv-XoKHP1cBylmONSSUi7o0L_hVWpkYJQ
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/16Uq9KbcNDQtI48E6xwyb8wk9x9.jpg", Hanu-Man (2024)
 https://dtacmuar-my.sharepoint.com/personal/mubi2_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EdfJk4FCfo1Om19k_x16LvoBois2LcwPh27S-PRYOjkumg
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rzSBCrS7ZSkB8quje1Na31gRze.jpg", Leo (2023)
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EW2ExTC60EtOpSX4W-a7U1wB7E6Wfw7UN4H0ArlyVwSMjQ
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://vvww.ohflix.my.id/uploads/video_thumb/54.jpg", Bahubali: The Beginning
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EQ-iJ_06BoFPpfqpTMCdyL4BxKR9xdtw9QDF9ozJ-BBjNg
-#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://img.etimg.com/thumb/msid-58237253,width-640,resizemode-4,imgsize-106584/the-truth-unfolds.jpg", Bahubali: The Conclusion
-https://dtacmuar-my.sharepoint.com/personal/sitamil_dtacmuar_onmicrosoft_com/_layouts/15/download.aspx?share=EXNwmYZSRX5IoxR4I0reKgEBCfjKrgwBFP2xQUN4bkE09A
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/i6wx0LlqYbFO8qb2CuZcfj7dfW9.jpg", Aruvam (2019)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Aruvam.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/original/7iLUbpIBWCcQeagdgx3fC9uCoz5.jpg", Kaappaan (2019)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Kaappaan.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yF08k0Hm0sH0bpOZYJWAmbjqDgi.jpg", Thudikkum Karangal (2023)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thudikkum%20Karangal.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rQ2lPXyAwm0c5Sre9xyvnTPEt0Z.jpg", Thuramukham (2023)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Thuramukham.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/hh7D1fLjet1Ce1kcCkk5TVr3g9O.jpg", Dhruva (2016)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Dhruva.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/oz1BLUe7bC6GWQpAa1aneMQFacI.jpg", Rachcha (2012)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Racha%202012.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/euSAn9sVeS4Qnaj1ZWDw56gPi9W.jpg", Yevadu (2014)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Yevadu.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rLJ3xyM5iFCfXNSbDOkGZ5ms6oX.jpg", DJ: Duvvada Jagannadham (2017)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/DJ-%20Duvvada%20Jagannadham.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/qNYG0NLXcdZEW56pcOjrm0w6Vos.jpg", Bruce Lee The Fighter (2015)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Bruce%20Lee%20-%20The%20Fighter.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/a0hFV8G0ofyPgPEjVcYrueuxFex.jpg", Bharat Ane Nenu (2018)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Bharat%20Ane%20Nenu%20(2018)%20malay%20sub.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/dYpqpA7BsDHeyAGs9AAEPhZmbck.jpg", Nenokkadine (2014)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/1-%20Nenokkadine%20Malay.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/4pAnEs9FUCP3ul0KN1pLYP9FSBa.jpg", Aagadu (2014)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Aagadu%20Malay.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/sWxWTWCdMfjL8CmoVdQWttifBSd.jpg", Sarileru Neekevvaru (2020)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Sarileru%20Neekevvaru.mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/9r4LCgznHZWg2vdxbZRqnlFpKIC.jpg", Sarrainodu (2016)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Sarrainodu.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w500/rNIsCxgrtOGRDDa4P06tfgKbxua.jpg", Race Gurram (2014)
+https://worker-kasyah.buntai.workers.dev/0:/movie/HINDI/Race%20Gurram.mkv
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x7c6RQCWmrl92rPg3JhzzalF4SQ.jpg", Saindhav (2024)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Saindhav%20(2024).mp4
+#EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gq5OlT5ImxsNpkirpgf4rYngd3M.jpg", Captain Miller (2024)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Captain_Miller_2024_Tamil_720p_WEB_DL_Sub_Melayu_@ceritasarikatamelayu.mp4
