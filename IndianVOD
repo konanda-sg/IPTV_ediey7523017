@@ -3,10 +3,8 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://tv3.lk21online.mom/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
-https://cloud.hownetwork.xyz/xxx/LVU7ISgcGGxwYUV6bmcTGgY0FhYaSk9we2gRdSISgc/40/480.m3u8
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/O%20Romeo%20(2026).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/79RBp8afL4u4z3nVGR78z6eIvBB.jpg" group-title="▶ VOD BOLLYWOOD",Bhooth Bangla (2026)
 https://amoo.larhu.website/hls/vxzxgpomqkqfycihmto7zsfebstlam3rexhxse7gflyblikmfvbfjbj6uqga/index-v1-a1.m3u8
@@ -59,6 +57,12 @@ https://amoo.larhu.website/hls/vxzxhn3rqoqfycihmtm7zs7cjn7sptc3u6pj5o354cgx4eatx
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/knZElykTCtiztv6EKtxneV97Nfy.jpg" group-title="▶ VOD BOLLYWOOD",No Entry (2005)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/No%20Entry%20(2005).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/l2rVlQOqPnuw29DfYruQOQ4B25j.jpg" group-title="▶ VOD BOLLYWOOD",One 2 Ka 4 (2001)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/One%202%20Ka%204%20(2001).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aFJQSWies9Qw2NwBORneBCgFlG3.jpg" group-title="▶ VOD BOLLYWOOD",Nikita Roy (2025)
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Nikita%20Roy%20(2025).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bFD8MyNYCG4k4zf40nlCiDR6Wai.jpg" group-title="▶ VOD BOLLYWOOD",Game On (2024)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Game%20On%20(2024).mp4
@@ -904,26 +908,21 @@ https://cloud.hownetwork.xyz/xxx/LxkoIiwSWnNyY0JhFHUUHA4nERF1SU92IzMVeA/34/480.m
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/3chNHVi7j0jmUvJ1k7n2EYPfFmC.jpg" group-title="▶ VOD BOLLYWOOD",Khiladi 786
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Khiladi%20786%20(2012).mp4
-https://cloud.hownetwork.xyz/xxx/86626098439488e716a100fff30f56e6/6/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/26fFnoLCuA5vzEGQsmLbNYBiI8J.jpg" group-title="▶ VOD BOLLYWOOD",Mere Yaar Ki Shaadi Hai (2002)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Mere%20Yaar%20Ki%20Shaadi%20Hai%20(2002)-1-720.mp4
-https://cloud.hownetwork.xyz/xxx/a5d064555b7a871e9e1489585d2114e0/6/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/p6NPup58fPjIEAU9tKU4XpQhtTA.jpg" group-title="▶ VOD BOLLYWOOD",Baghban (2003)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/14/BAGHBAN%202003.mp4
-https://cloud.hownetwork.xyz/xxx/730311e1a4023ee17c7a69f12b13920f/8/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/905TrVqL3R6PmaT2difJaB6I0OM.jpg" group-title="▶ VOD BOLLYWOOD",Saathiya (2002)
 https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil28/Saathiya%20(2002).mp4
-https://cloud.hownetwork.xyz/xxx/0be00f7a58727083213fe89dbda0940e/10/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg" group-title="▶ VOD BOLLYWOOD",Rocky Aur Rani Kii Prem Kahaani (2023)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil31/Rocky%20Aur%20Rani%20Kii%20Prem%20Kahaani%202023LT.mp4
-https://cloud.hownetwork.xyz/xxx/8de20718cc0c8db4022abff3eb6d95de/1/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/y3D8ziFHDt9wrid8XQdBC2dzGTH.jpg" group-title="▶ VOD BOLLYWOOD",Omkara (2006)
-https://47237.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil30/Omkara%20(2006).mp4
+https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Omkara%20(2006).mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/krMI3hRmlgKcuNc3XBWtl8APasR.jpg" group-title="▶ VOD BOLLYWOOD",Race (2008)
 https://47239.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion4/tamil31/Race%20(2008).mp4
