@@ -248,6 +248,9 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls
 #EXTINF:-1 tvg-id="KCM" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/a688d0KCM.png" group-title="Sooka",KCM
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg02159-kcglobalmediasi-kcm-asia-hls-sooka-sooka/playlist.m3u8
 
+#EXTINF:-1 tvg-id="My Toonz.my" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/2b1d06mytoonz.png" group-title="Sooka",My Toonz
+https://amg27925-amg27925c1-amgplt0131.playout.now3.amagi.tv/ts-ap-s1-n1/playlist/amg27925-amg27925c1-amgplt0131/8ce743d4-67fe-11f1-8a5b-3ab4cc4343bf/190/848x480_1200000/index.m3u8
+
 #EXTINF:-1 tvg-id="FTV" group-title="Sooka" tvg-logo="https://datastore.vr.ctrp.sooka.my/content/images/88db27FTV.png",Fashion TV
 https://amg01546-amg01546c1-astrosooka-singapore-10399.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01546-fashiontv-fashiontv-astrosookasingapore/playlist.m3u8
 
