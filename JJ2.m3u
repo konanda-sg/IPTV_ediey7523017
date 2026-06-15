@@ -453,21 +453,6 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/SalamBaitullah.jpg" group-title="RTM Klik",Salam Baitullah 2026
-https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="RTM Klik",Dewan Rakyat
-https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png" group-title="RTM Klik",Dewan Negara
-https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Okey.rtm" tvg-logo="https://rtm-images.glueapi.io/fit-in/640x320/system/OkeyDolby.png" group-title="RTM Klik",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/okey/DASH/okey.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -492,6 +477,21 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc2/DASH/wc2.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/720x0/system/Umobile.jpg" group-title="RTM Klik",FIFA WC 3
 https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/SalamBaitullah.jpg" group-title="RTM Klik",Salam Baitullah 2026
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="RTM Klik",Dewan Rakyat
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png" group-title="RTM Klik",Dewan Negara
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM Klik",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
