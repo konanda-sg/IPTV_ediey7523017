@@ -3,6 +3,12 @@
 
 ##############################################################▶ VOD BOLLYWOOD##########################################################
 
+
+#EXTVLCOPT:http-referrer=https://tv.lk21official.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; MiTV-AXSO0 Build/QTZCS200912.005) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/zHrn6acLY8DyGiLtbqPPh5CGiYy.jpg" group-title="▶ VOD BOLLYWOOD",29 (2026)
+https://cloud.hownetwork.xyz/xxx/cEFkfHVLQWwVFDUID28OB3UZLHp2GkNzd2c8ec13/41/480.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aTnIGrfVv03FIDsNDuabNsp9yFM.jpg" group-title="▶ VOD BOLLYWOOD",O'Romeo (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/O%20Romeo%20(2026).mp4
 
