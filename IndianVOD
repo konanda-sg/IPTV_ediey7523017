@@ -2037,6 +2037,15 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hWppYMTwWHT73sj0N2svMpBLgim.jpg" group-title="▶ VOD INDIA",Karuppu (2026)
+https://amoo.larhu.website/hls/vxzxg3gkqkqfycihmto7zcf7cihxjo2m2gj2737atj76g6esbkh4ipavgmya/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1RhgNQyFIrG61u2YrH7dluW3M1V.jpg" group-title="▶ VOD INDIA",Dridam (2026)
+https://amoo.larhu.website/hls/vxzxg2okqkqfycihmto7zrhbjidnikewfokostdqkmceeujytt546hvrafra/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/lCqVTbzjThEhbx7eYrBOIG5qsy6.jpg" group-title="▶ VOD INDIA",Leader (2026)
+https://amoo.larhu.website/hls/vxzxgvruqoqfycihmtopzbn6ias3eb7ulkenufxbpbbmuthmhmg6klhwh6ya/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg" group-title="▶ VOD INDIA",Patriot (2026)
 https://amoo.larhu.website/hls/vxzxhubqqoqfycihmto7zsppbmz42kn6n6j3k4fdtktta5yp4lunaf7sr6pa/index-v1-a1.m3u8
 
@@ -2054,6 +2063,9 @@ https://amoo.larhu.website/hls/vxzxgwzvqoqfycihmtopzv52bppvfvf64ffbxuwuxfzk4xbhx
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/Kara%20(2026).mp4
 https://amoo.larhu.website/hls/vxzxhvbvqoqfycihmtopzr5obxxie63ez5axihkcwoil7vz7wyj52zehugfq/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg" group-title="▶ VOD INDIA",Raakaasa (2026)
+https://amoo.larhu.website/hls/vxzxgnjgqoqfycihmtn7zxpcbldvwqbdz7mdevutc7qot4ue47hko3qkpl3q/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/c0kJfVsO1u3ksiLqeVZl3ybnqoH.jpg" group-title="▶ VOD INDIA",Oh Butterfly! (2026)
 https://amoo.larhu.website/hls/vxzxh4rhqoqfycihmtn7zv5pjfqcisfaahluapuqwzagngpv6qcjnsniak5q/index-v1-a1.m3u8
 
@@ -2068,6 +2080,9 @@ https://amoo.larhu.website/hls/vxzxhqdoqoqfycihmtmpzcnvjt7day3b6l6p6ou5e5ytdlrce
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5eZzBvETRK8uDz3mUK0Feio2T5C.jpg" group-title="▶ VOD INDIA",Aan Paavam Pollathathu (2025)
 https://amoo.larhu.website/hls/vxzxhqtoqoqfycihmtmpzbxddsxonzvcq7cihbhect5jdxmtxjizihrian4q/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/khmqybdzRYWeMcoWVPUICyagHdD.jpg" group-title="▶ VOD INDIA",Daksha: The Deadly Conspiracy (2025)
+https://amoo.larhu.website/hls/vxzxhmzwqoqfycihmtopzvfmjqa6pvqc336o4sr7z2qe4aevorujvsxmlfgq/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/87MhKILHPwcForDY0HxzII4tPvA.jpg" group-title="▶ VOD INDIA",Eesha (2026)
 https://amoo.larhu.website/hls/vxzxgosdqoqfycihmtl7zahgjbkvz35lcatuxix2apjur3625yw4eq3lidea/index-v1-a1.m3u8
