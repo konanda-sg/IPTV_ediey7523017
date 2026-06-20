@@ -320,6 +320,7 @@ https://amg00810-amg00810c1-astrosooka-singapore-6959.playouts.now.amagi.tv/play
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV1.mana2" group-title="MYTV Mana-Mana" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-logo="https://d2ivesio5kogrp.cloudfront.net/static/mytv/images/mytv-manatv-logo.png",TV1
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -454,7 +455,7 @@ https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221_output_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV1.rtm" tvg-logo="https://rtm-images.glueapi.io/110x0/live_channel/tv1_Trans.png" group-title="RTM Klik" group-logo="https://rtmklik.rtm.gov.my/appLogo.png",TV1
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/tv1/DASH/tv1.mpd
+https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/master.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
