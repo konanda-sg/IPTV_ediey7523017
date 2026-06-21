@@ -108,7 +108,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="DS.tonton" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420342:378:CHANNEL:IMAGE:png&w=400" group-title="MYTV Mana-Mana",Drama Sangat
-https://live-03.tonton.com.my/1781643092/f519b1bcac47f88c7ad95c8f95237c3af85118eb79fd9f7d6daa81142f789119/ds/04.m3u8
+https://live-03.tonton.com.my/1782010223/381410ee8b49cbf4eb936db774680191391786bd91e2ccd7510a39fb69523026/web/395c3081b2316fbf594084e0bd3eaf25c21ac64139c17783745b93d8a4f99812/ds/04.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
