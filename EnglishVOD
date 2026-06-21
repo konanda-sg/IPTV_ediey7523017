@@ -21,6 +21,10 @@ https://cloud.hownetwork.xyz/xxx/IBQ8K2gUGC4sfEV8cQV7Gi4NGy88Ji8eejMVLiFRNW8/39/
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/tDPW2j6L6r6YfsChYLfLRQ6Vjwh.jpg" group-title="▶ VOD ENGLISH",Misdirection (2026)
 https://cloud.hownetwork.xyz/xxx/LxE6KiwLEiI2OBgibgJmanRVHgsHPTseGg5HLnQJYGxwHA/39/480.m3u8
 
+#EXTVLCOPT:http-referrer=https://morencius.com/embed/esiytre3ac5x
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/canZTWSxACSnAluir3dCtMxKpA1.jpg" group-title="▶ VOD ENGLISH",Voicemails for Isabelle (2026)
+https://morencius.com/stream/RL1P9A9epIKGS0EyoT2YbA/hjkrhuihghfvu/1782071877/41956004/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gFjEggtrejCN79r6SXRjM269OtG.jpg" group-title="▶ VOD ENGLISH",Pressure (2026)
 https://amoo.larhu.website/hls/vxzxhr6gqkqfycihmto7zqfbdruv77655fddwhdmgrnhnwidchvkajorreha/index-v1-a1.m3u8
 
