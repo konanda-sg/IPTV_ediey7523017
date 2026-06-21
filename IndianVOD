@@ -2037,6 +2037,18 @@ https://get.perfecttv.net/bolly.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 ######################################################################▶ VOD INDIA#########################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7d8GLneJkF81q1POdK7VUrjWafX.jpg" group-title="▶ VOD INDIA",Drishyam (2013)
+https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Drishyam%20(2013).mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RJBCUGE27LX06tAES4jTELN0KA.jpg" group-title="▶ VOD INDIA",Drishyam 2 (2021)
+https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Drishyam%202.mp4
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/456FlpiU1iOBnaOxSd783QhZKWw.jpg" group-title="▶ VOD INDIA",Drishyam 3 (2026)
+https://amoo.larhu.website/hls/vxzxgk6hqkqfycihmto7zantibp4hxcimbf6w637nyc7vji7y4kvozqu5vgq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hzg1qQmlFF0h4iY6Vw06IcIng9a.jpg" group-title="▶ VOD INDIA",Ugly Story (2026)
+https://amoo.larhu.website/hls/vxzxh3whqkqfycihmto7zqncjksgkyrawydmiojaezsqbvad7pad4gl3krha/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/hWppYMTwWHT73sj0N2svMpBLgim.jpg" group-title="▶ VOD INDIA",Karuppu (2026)
 https://amoo.larhu.website/hls/vxzxg3gkqkqfycihmto7zcf7cihxjo2m2gj2737atj76g6esbkh4ipavgmya/index-v1-a1.m3u8
 
@@ -2316,12 +2328,6 @@ https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil7/Singam%202%20(2013)%2
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="▶ VOD INDIA",Singam (2010)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil4/Singam%20(2010).mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/7d8GLneJkF81q1POdK7VUrjWafX.jpg" group-title="▶ VOD INDIA",Drishyam (2013)
-https://47228.ohflix.workers.dev/0:/x32/NewVersion/43-1/Drishyam%20(2013).mp4
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/8RJBCUGE27LX06tAES4jTELN0KA.jpg" group-title="▶ VOD INDIA",Drishyam 2 (2021)
-https://worker-delicate-rain-inas.buntai.workers.dev/0:/movie/HINDI/Drishyam%202.mp4
 
 #EXTINF:-1 type="movie" group-title="▶ VOD INDIA" tvg-logo="https://image.tmdb.org/t/p/w1280/uwGChfkDcxljj4pgb53A7JonOqU.jpg",Raatchasi (2019)
 https://47234.ohflix.workers.dev/0:/x35/NewVersion3/tamil20/Raatchasi%20(2019).mp4
