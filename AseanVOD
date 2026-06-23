@@ -4,7 +4,7 @@
 ######################################################################▶ VOD ASEAN######################################################################
 
 
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5taKwKt266p22QqXPqftZwXAQ36.jpg" sub-track-url="https://subtitle.khflix.top/The.Secret.Scandal.Norigae.Malay.vtt" group-title="▶ VOD ASEAN",The Secret Scandal (2013)
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5taKwKt266p22QqXPqftZwXAQ36.jpg" subtitles="https://subtitle.khflix.top/The.Secret.Scandal.Norigae.Malay.vtt" group-title="▶ VOD ASEAN",The Secret Scandal (2013)
 https://videos.khflix.top/The.Secret.Scandal.Norigae.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/qsOgkQ41npgioxnSv0Li7rWtWg3.jpg" group-title="▶ VOD ASEAN",Dr. Wai in the Scripture with No Words (1996)
