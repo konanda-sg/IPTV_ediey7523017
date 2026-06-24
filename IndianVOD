@@ -2056,6 +2056,9 @@ https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/S%20Saraswathi%20(20
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/z2-Karuppu%20(2026).mp4
 https://amoo.larhu.website/hls/vxzxg3gkqkqfycihmto7zcf7cihxjo2m2gj2737atj76g6esbkh4ipavgmya/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/qZR3euvzufCE6rgMIlxuM6IwE43.jpg" group-title="▶ VOD INDIA",Kaalidas 2 (2026)
+https://amoo.larhu.website/hls/vxzxgswaqkqfycihmto7zrvxdip532eb3ccl5ecnztddigzysuoxpl4xnanq/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1RhgNQyFIrG61u2YrH7dluW3M1V.jpg" group-title="▶ VOD INDIA",Dridam (2026)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/tamil44/z0-Dridam%20(2026).mp4
 https://amoo.larhu.website/hls/vxzxg2okqkqfycihmto7zrhbjidnikewfokostdqkmceeujytt546hvrafra/index-v1-a1.m3u8
@@ -2272,6 +2275,7 @@ https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil1/Bairavaa%20HDRip%20(2
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/kUBsvLoyzgxTqTvuiE0PmJHpsRU.jpg" group-title="▶ VOD INDIA",Jilla (2014)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil2/Jilla%20HDRip%20(2014).mkv
+https://amoo.larhu.website/hls/vxzxgroaqkqfycihmto7zq5cjkkjgvlvadcfrjnjncqommo6avpxrghai55q/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/65Q1wpRPZ5E3UVUv2V5JBbJQCcj.jpg" group-title="▶ VOD INDIA",Mersal (2017)
 https://47226.ohflix.workers.dev/0:/x11/Tamil-Hindi/Tamil3/Mersal%20HD%20AVC%20(2017).mkv
