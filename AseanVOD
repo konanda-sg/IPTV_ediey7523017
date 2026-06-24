@@ -3,6 +3,21 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1N5lbL2x4Bz7YBjEWtu34VRBKCe.jpg" group-title="▶ VOD ASEAN",Double Happiness (2026)
+https://amoo.larhu.website/hls/vxzxhpwaqkqfycihmto7zxpaiccjrgtgigfqjk4yyzfusjkt65hwq2rrcioq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/original/qgOKHLSdnY3KnuoVIcdksOfDbmv.jpg" group-title="▶ VOD ASEAN",Nightmare Haunted House (2025)
+https://amoo.larhu.website/hls/vxzxgwoaqkqfycihmto7zwv6dqpfgglgrut3xg37ewtsvphecwcjhpuhy6oa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/2ReOSBDXqeTkDSOUiQAeksijLXe.jpg" group-title="▶ VOD ASEAN",The Elite of Devils (2024)
+https://amoo.larhu.website/hls/vxzxgygaqkqfycihmto7zafodafilwdtotlzna52xyu7mxgjaupmfsa7l3ua/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/gB8aGoVwPFH99orjybV1i0P5e7a.jpg" group-title="▶ VOD ASEAN",Human Resource (2026)
+https://amoo.larhu.website/hls/vxzxgq6aqkqfycihmto7zvpojoajipkjayi3jt2yhvjex4hhyoxkyhezxboa/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aEMdHvaOK7UjCLpjyzBbMV9pezB.jpg" group-title="▶ VOD ASEAN",Perng Mang: The Haunted Drum (2007)
+https://amoo.larhu.website/hls/vxzxgzgcqkqfycihmto7zapcbqtv2cstrm55yqon4pndvcskvlytxmfguv5q/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/5taKwKt266p22QqXPqftZwXAQ36.jpg" group-title="▶ VOD ASEAN",The Secret Scandal (2013)
 https://videos.khflix.top/The.Secret.Scandal.Norigae.mp4
 
@@ -12,16 +27,16 @@ https://bigf.bigo.sg/asia_live/V4s7/2d2lEr.mp4
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/rdmXkKPjGw43u4wp3aod4aIPiH.jpg" group-title="▶ VOD ASEAN",Husbands in Action (2026)
 https://amoo.larhu.website/hls/vxzxhkwfqkqfycihmto7zq7cb34asxmteelxauajmrbxubprs4c2tefn7nza/index-v1-a1.m3u8
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD ASEAN",Salmokji: Whispering Water (2026)
+https://amoo.larhu.website/hls/vxzxh5bvqoqfycihmtopzwvfao7sfeb2mxljlg5h64c24cg4muzariflju4q/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x92ZefuXdXcqN3Dtluew76gOMb1.jpg" group-title="▶ VOD ASEAN",Sister (2026)
+https://hls.khflix.top/Sister%20(2026)/index.m3u8
+
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/cg679vCkXY9RH2iINLvdG68tzsQ.jpg" group-title="▶ VOD ASEAN",The World of Love (2025)
-https://dl8202.send.now/d/u5ytcj7y6cosj4l4rvrvhaf52zhbuagnuz37tct6apsjh2ooghzusw4xb35qkeiejctvbksd/video.mp4
 https://cloud.hownetwork.xyz/xxx/NRc7IiFUGy40NFp-cwJjdRU9CwoJJi8ed2QUe3EBZT00df2c0aa/41/480.m3u8
-
-#EXTVLCOPT:http-referrer=https://imaxstreams.com/embed/zr0qmsa61uni
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_face/x92ZefuXdXcqN3Dtluew76gOMb1.jpg" group-title="▶ VOD ASEAN",Sister (2026)
-https://hls.khflix.top/Sister%20(2026)/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://imaxstreams.com/embed/zlbhhtw6ga9p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -32,10 +47,6 @@ https://imaxstreams.com/stream/Eqja7E1Oo_o5PeTnhsw9Wg/hjkrhuihghfvu/1779323523/4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/aBa38pevukkr5kG0rKW4lnQtyEP.jpg" group-title="▶ VOD ASEAN",A Sensuous Solitude (2025)
 https://imaxstreams.com/stream/n2kqzRWQlWMKuVWNOiKK4Q/hjkrhuihghfvu/1779324090/40050591/index-v1-a1.m3u8
-
-#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bOl0rJ86WWxVYlQlGttHhHuYiPQ.jpg" group-title="▶ VOD ASEAN",Salmokji: Whispering Water (2026)
-https://fiilmapik.strp2p.site/hls/Yjo1VW7ecx0MKw1i5dRPEQ/x68/afyhwn5d/mn8xws/tt/index-f2-v1-a1.m3u8?v=1766826492
-https://amoo.larhu.website/hls/vxzxh5bvqoqfycihmtopzwvfao7sfeb2mxljlg5h64c24cg4muzariflju4q/index-v1-a1.m3u8
 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
@@ -831,7 +842,7 @@ https://cloud.hownetwork.xyz/xxx/c61d23550fd33dbdd8d4dc97cb3e1a8f/20/480.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/v6wvLIF2X9juSXsBb5Ch6tU2LOK.jpg" group-title="▶ VOD ASEAN",New World (2013)
 https://47228.ohflix.workers.dev/0:/x32/NewVersion/24/New%20World%202013.mp4
-https://cloud.hownetwork.xyz/xxx/6d831c06075db386a7d7c4bc5d70e14a/1/480.m3u8
+https://amoo.larhu.website/hls/vxzxgv6aqkqfycihmto7zsfpdcbzbatcraldo6dvn7o5guytwz44nvunt5ya/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg" group-title="▶ VOD ASEAN",Train to Busan (2016)
 https://47240.ohflix.workers.dev/0:/a67t55yflix/three/NewVersion5/baru44/Train%20to%20Busan%20(2016)-1-720.mp4
