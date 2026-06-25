@@ -742,6 +742,8 @@ http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1889.mp4
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/1852.mp4
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jLhdLajSQgSVgyIOeoQWTJrsSwb.jpg" group-title="▶ VOD MIXED",Operasi X (2018)
 http://link.zozotv.xyz:8080/movie/zotv873/zxy716/928.mp4
+#EXTINF:-1 tvg-id="" tvg-logo="https://image.tmdb.org/t/p/w1280/5ZadvbdUB3krDxYCwUYvsWHgi98.jpg" group-title="▶ VOD MIXED",The Karate Kid (2010)
+https://47227.ohflix.workers.dev/0:/x21/NewVersion/5/The%20Karate%20Kid%202010%20720p%20BrRip%20x264.mp4
 
 #######################################################################▶ VOD NETFLIX#############################################################
 
@@ -2413,12 +2415,6 @@ https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/11/The.Acciden
 #EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/3YcCuw6wksSoHhXHdDY071NduEA.jpg",The Story of a Rock (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYzYNGDM7fBgqblF7Ki0bImN3SUV0byYSLidcCQAdSH96fUsRIyE/32/480.m3u8
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/10/The.Story.of.a.Rock.2025.mp4/tracks-v1a1/mono.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0 
-#EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
-#EXTINF:-1 type="movie" group-title="▶ VOD MOVIES 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/ckI6bmQDvvGy20FPTIW1kfGKGRK.jpg",?? Karate Kid: Legends (2025)
-https://cloud.hownetwork.xyz/xxx/KRk7LzEcWiorNVogJlczNiYLZHx1S0JsITAaExtvZ2EmHCt3dUg/32/480.m3u8
-https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2025/Mei/10/Karate.Kid.Legends.2025.mp4/tracks-v1a1/mono.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0 
 #EXTVLCOPT:http-referrer=https://tv13.lk21official.life/
