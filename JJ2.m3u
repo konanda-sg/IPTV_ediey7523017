@@ -501,13 +501,13 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RTM World.rtm" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/rtmworld.jpeg" group-title="RTM Klik",RTM World
+#EXTINF:-1 tvg-id="RTM World.rtm" tvg-logo="https://i.ibb.co/vxD2fyhy/rtmworld.png" group-title="RTM Klik",RTM World
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="" tvg-logo="https://rtm-images.glueapi.io/720x0/live_channel/SalamBaitullah.jpg" group-title="RTM Klik",Salam Baitullah 2026
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/LXvxVjH7/Salam-Baitullah.png" group-title="RTM Klik",Salam Baitullah 2026
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event2/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
@@ -531,13 +531,13 @@ https://d30aylox5wvifh.cloudfront.net/live/media0/wc3/DASH/wc3.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/PDR_bckg.png" group-title="RTM Klik",Dewan Rakyat
+#EXTINF:-1 tvg-id="Dewan Rakyat.rtm" tvg-logo="https://i.ibb.co/8gF1Pg2s/PDR.png" group-title="RTM Klik",Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/live_channel/7.png" group-title="RTM Klik",Dewan Negara
+#EXTINF:-1 tvg-id="Dewan Negara.rtm" tvg-logo="https://i.ibb.co/My47n3Yw/PDN.png" group-title="RTM Klik",Dewan Negara
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1082,7 +1082,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(NHK)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=90c7eb5d66b442a9a591775cc1154bc9:4af842b9ad5315a01d7655b8b502196f
 https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd
 
-#EXTINF:-1 tvg-id="702" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9E7BD4A4-E920-4556-9C44-0A243C5024C7/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 1
+#EXTINF:-1 tvg-id="702" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-1.png" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1090,7 +1090,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(unifi1)/master.mpd
 #KODIPROP:inputstream.adaptive.license_key=10e2114398744f3880cc96653568da55:d6d40441f9fbebea03ec64c4aea7211f
 https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa1&kid=10e21143-9874-4f38-80cc-96653568da55
 
-#EXTINF:-1 tvg-id="703" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/05793DF0-B2E9-4447-B7C6-DE8ADCB5EA24/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 2
+#EXTINF:-1 tvg-id="703" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-2.png" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1098,7 +1098,7 @@ https://get.perfecttv.net/fifawc.mpd?username=vip_3klp0es8&password=wg3piwEs&cha
 #KODIPROP:inputstream.adaptive.license_key=60a3773de4054a9680d6ca2277870a97:0ed58cdb97aaa8efba47b865ea7e8958
 https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa2&kid=60a3773d-e405-4a96-80d6-ca2277870a97
 
-#EXTINF:-1 tvg-id="704" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6F6D4C8B-DE5E-41AF-BCA9-3EF630205F40/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
+#EXTINF:-1 tvg-id="704" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-3.png" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1106,7 +1106,7 @@ https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/fifawc3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
-#EXTINF:-1 tvg-id="705" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 4
+#EXTINF:-1 tvg-id="705" tvg-logo="https://cluster2.s3.unifi.com.my/expo-web/worldcup2026/Modal/Modal_%20Pack%20Details/jj-channel-4.png" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
