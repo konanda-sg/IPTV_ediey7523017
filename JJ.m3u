@@ -886,6 +886,14 @@ https://get.perfecttv.net/fifawc2.mpd?username=vip_3klp0es8&password=wg3piwEs&ch
 #KODIPROP:inputstream.adaptive.license_key=f88c0e6ef2de4f92b7ce07e50cb2d937:7aff86770a0f0ac16b91a372e148a8bd
 https://get.perfecttv.net/fifawc3.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa3&kid=f88c0e6e-f2de-4f92-b7ce-07e50cb2d937
 
+#EXTINF:-1 tvg-id="705" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/9DB657EE-7589-4D2A-B4D5-C04B7BFAEB61/0-16x9.jpg?width=530" group-title="Unifi TV",Unifi FIFA World Cup™ 2026 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44698807b32844cdaa459f51970a57b8:00faf338044bfccf10f33fda008eb8eb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+https://get.perfecttv.net/fifawc4.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=fifa4&kid=44698807-b328-44cd-aa45-9f51970a57b8
+
 #EXTINF:-1 tvg-id="706" tvg-name="SPOTV" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/75E45C13-621B-44EB-86F1-35C8C3DCB7E1/0-16x9.png?width=530" group-title="Unifi TV",SPOTV
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
