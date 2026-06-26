@@ -494,7 +494,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/33/RTM_Sukan_Plus_%282026%29.png" group-title="RTM Klik",Sukan+
+#EXTINF:-1 tvg-id="Sukan RTM.rtm" tvg-logo="https://i.ibb.co/5hmZPbKP/RTM-Sukan-Plus-2026.webp" group-title="RTM Klik",Sukan+
 https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/DASH/sukan.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
@@ -542,7 +542,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/SNAP_CHANNEL.jpg" group-title="RTM Klik",RTM Snap
+#EXTINF:-1 tvg-id="Snap.rtm" tvg-logo="https://i.ibb.co/NdTzXHHL/SNAP-CHANNEL.png" group-title="RTM Klik",RTM Snap
 https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -552,27 +552,27 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Apetito.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/APETITO_CHANNEL.jpg" group-title="RTM Klik",RTM Apetito
+#EXTINF:-1 tvg-id="Apetito.rtm" tvg-logo="https://i.ibb.co/zTqC2v5n/APETITO-CHANNEL.png" group-title="RTM Klik",RTM Apetito
 https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Fitrah.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/FITRAH_CHANNEL.jpg" group-title="RTM Klik",RTM Fitrah
+#EXTINF:-1 tvg-id="Fitrah.rtm" tvg-logo="https://i.ibb.co/MyJr691D/FITRAH-CHANNEL.png" group-title="RTM Klik",RTM Fitrah
 https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="JR..rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/JR_CHANNEL.jpg" group-title="RTM Klik",RTM Junior
+#EXTINF:-1 tvg-id="JR..rtm" tvg-logo="https://i.ibb.co/1tsThQWk/JR-CHANNEL.png" group-title="RTM Klik",RTM Junior
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="ROLL.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/ROLL_CHANNEL.jpg" group-title="RTM Klik",RTM Roll
+#EXTINF:-1 tvg-id="ROLL.rtm" tvg-logo="https://i.ibb.co/mV5KGGM3/ROLL-CHANNEL.png" group-title="RTM Klik",RTM Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Aura.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/AURA_CHANNEL.jpg" group-title="RTM Klik",RTM Aura
+#EXTINF:-1 tvg-id="Aura.rtm" tvg-logo="https://i.ibb.co/35WqBVxk/AURA-CHANNEL.png" group-title="RTM Klik",RTM Aura
 https://d1sq2slp9afh7o.cloudfront.net/smil:aura/manifest.mpd
 
 
