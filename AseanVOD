@@ -3,6 +3,9 @@
 
 ######################################################################▶ VOD ASEAN######################################################################
 
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/pPdHuTs4RAdxs0yaXnlxl1AM3f1.jpg" group-title="▶ VOD ASEAN",King Kaew (2026)
+https://amoo.larhu.website/hls/vxzxgg66qkqfycihmtppzwvpacn65ytaievzvrp6ar6tk74paw5j6s4ttpua/index-v1-a1.m3u8
+
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/1N5lbL2x4Bz7YBjEWtu34VRBKCe.jpg" group-title="▶ VOD ASEAN",Double Happiness (2026)
 https://amoo.larhu.website/hls/vxzxhpwaqkqfycihmto7zxpaiccjrgtgigfqjk4yyzfusjkt65hwq2rrcioq/index-v1-a1.m3u8
 
@@ -78,6 +81,9 @@ https://amoo.larhu.website/hls/vxzxhnqkqoqfycihmtnpza7cif3xrr224lqfuaqeqjksqqf6h
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/wT2TvLsB3n76TLZAOJv84nSsjHH.jpg" group-title="▶ VOD ASEAN",The Long Way Home (2015)
 https://amoo.larhu.website/hls/vxzxh2imqoqfycihmtm7zqvyah3x52wsffg5pdgavcp7fkjxh5gy3njsrhdq/index-v1-a1.m3u8
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/bApGPb1JPEDzif5FefkFC0JIAW9.jpg" group-title="▶ VOD ASEAN",Insane (2016)
+https://47229.ohflix.workers.dev/0:/x32/NewVersion/47/Insane%202016.mp4
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/4wk90VHnjy9dWRZPkXMMyphftLG.jpg" group-title="▶ VOD ASEAN",My Daughter Is a Zombie (2025)
 https://47247.ohflix.workers.dev/0:/x41/NewVersion5/baru52/My%20Daughter%20is%20a%20Zombie%202025-1-720.mp4
@@ -1987,6 +1993,9 @@ https://vivamax.secureswiftcontent.com/video/P01377_FF_FM_GLORIOUS%20DAYS/dash/h
 
 
 ####################################################################▶ VOD INDONESIA###################################################################
+
+#EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/vmggNXdqYLql6rUYR96r0YjnL6U.jpg" group-title="▶ VOD INDONESIA",Kafir: Gerbang Sukma (2026)
+https://amoo.larhu.website/hls/vxzxgno7qkqfycihmto7zvn6jbkjufd47e2fqqioud5rvprgh4k5aamzv5za/index-v1-a1.m3u8
 
 #EXTINF:-1 type="movie" tvg-logo="https://image.tmdb.org/t/p/w1280/yZmd1zdRGX5huc0KsTTqqzuHiI3.jpg" group-title="▶ VOD INDONESIA",Dosa Musyrik (2024)
 https://amoo.larhu.website/hls/vxzxhfokqkqfycihmto7zrxabf7a5gjucgfqm7vm227555ocilxnh5ktp6rq/index-v1-a1.m3u8
