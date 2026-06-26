@@ -547,7 +547,7 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:snap/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Lead.rtm" tvg-logo="https://rtm-images.glueapi.io/320x0/fast_channel/LEAD_CHANNEL.jpg" group-title="RTM Klik",RTM Lead
+#EXTINF:-1 tvg-id="Lead.rtm" tvg-logo="https://i.ibb.co/nMTKGhFL/LEAD-CHANNEL.png" group-title="RTM Klik",RTM Lead
 https://d1sq2slp9afh7o.cloudfront.net/smil:lead/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
